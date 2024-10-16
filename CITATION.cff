@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "Archaeological Fields and Methods"
+authors:
+  - family-names: "Schlegel"
+    given-names: "Jona"
+    orcid: "https://orcid.org/0000-0001-2345-6789"
+title: "archaeological-fields-and-methods"
+version: 1.0.0
+date-released: 2024-10-16
+url: "https://github.com/jonaschlegel/archaeological-fields-and-methods"
+license: "MIT"
+keywords:
+  - Archaeology
+  - Disciplines
+  - Methods
+  - Tools
+  - Research
