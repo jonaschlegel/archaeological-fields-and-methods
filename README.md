@@ -331,7 +331,9 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: EXARC Experimental Archaeology Podcast](https://exarc.net/podcasts)**: Discussions with leading experimental archaeologists on recreating ancient technologies and the methods behind them.
+- **[Podcast: The EXARC Show](https://exarc.net/podcast)**: Episodes feature content from many of EXARC’s endeavours, the question-and-answer sessions from digital conferences, as well as one-off activities and workshops on current issues.
+- **[Podcast Episode on Seven Ages Audio: Art of the Anicent Hunt](https://sevenages.org/podcasts/seven-ages-audio-journal-episode-34-art-of-the-ancient-hunter/)**: This episode of the Seven Ages Audio Journal interviews Ryan Gill, an expert in the recreation of primitive weapons and archaeological consultant in ancient hunting methods and tools.
+- **[ArchProNet Episode 188: Experimental Archaeology](https://www.archaeologypodcastnetwork.com/archaeology/188)**
 - **[YouTube: Experimental Archaeology Explained](https://www.youtube.com/)**: A video series covering experiments in tool-making, construction, and ancient technology.
 - **[EXARC Blog](https://exarc.net/blog)**: Features updates on experimental archaeology projects, research findings, and practical experiments.
 
@@ -344,8 +346,10 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Societies/Online Groups/Forums
 
 - **[EXARC](https://exarc.net/)** (International): A global network of experimental archaeologists and open-air museums, promoting collaboration and research in experimental archaeology.
-- **[Facebook: Experimental Archaeology Group](https://www.facebook.com/groups/experimentalarchaeology/)**: An online community where researchers and enthusiasts share experimental archaeology projects and results.
-- **[Reddit: r/ExperimentalArchaeology](https://www.reddit.com/r/ExperimentalArchaeology/)**: A forum for discussing experimental archaeology, sharing experiments, and learning about ancient technologies.
+- **[Facebook: Experimental Archaeology Group](https://www.facebook.com/groups/experimentalarchaeology/)**: A private online community where researchers and enthusiasts share experimental archaeology projects and results.
+- **[Facebook: Experimental archaeology Group]([Experimental archaeology](https://www.facebook.com/groups/experimental.arch/)**: A public online community.
+- **[Facebook: UCD Experimental Group](https://www.facebook.com/groups/UCDExperimentalArchaeology/)**: UCD specific experimental archaeology group.
+- **[Reddit: r/exarcchaeology](https://www.reddit.com/r/exarcchaeology/)**: A forum for discussing experimental archaeology, sharing experiments, and learning about ancient technologies.
 
 </details>
 
