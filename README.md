@@ -10,10 +10,7 @@ This repository compiles useful resources across a wide range of **archaeologica
 It includes:
 
 - **Disciplines A-Z**: A complete list of archaeological fields with definitions, books, courses, and societies.
-- **Methods and Techniques**: Detailed methods like geophysical survey, stratigraphy, and 3D modelling.
-- **Research Institutions and Universities**: A list of universities and research institutes where you can study and collaborate.
-- **Software and Tools**: Open-source software, datasets, and tech resources for archaeology.
-- **Community**: Conferences, societies, online groups, and forums to stay connected and contribute.
+- **Methods and Techniques**: Will include detailed methods like geophysical survey, stratigraphy, and 3D modelling etc. in the future.
 
 The repository is regularly updated and contributions are highly encouraged!
 
@@ -40,9 +37,8 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Courses/Study Programs
 
-- [University of Oxford - MSc in Applied Landscape Archaeology]([https://www.conted.ox.ac.uk/courses/remote-sensing-and-aerial-survey](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology)) (Oxford, UK - Europe): A specialized course focused on aerial and satellite-based surveying techniques for archaeological research.
-- [University of Leicester - MSc in Remote Sensing and GIS](https://le.ac.uk/courses/remote-sensing-and-geographical-information-systems-msc) (Leicester, UK - Europe): A program focusing on the application of remote sensing techniques for archaeology and cultural heritage.
-- [University of Glasgow - MSc in Geomatics and Aerial Archaeology](https://www.gla.ac.uk/postgraduate/taught/archaeologygeomatics/) (Glasgow, UK - Europe): A specialized program in GIS and remote sensing applications in archaeology.
+- [University of Oxford - MSc in Applied Landscape Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology) (Oxford, UK - Europe): A specialized course focused on aerial and satellite-based surveying techniques for archaeological research.
+- [Aberystwyth University - MSc in Remote Sensing and GIS](https://courses.aber.ac.uk/postgraduate/gis-remote-sensing-masters/) (Aberystwyth, Wales - Europe): A program focusing on the application of remote sensing techniques for archaeology and cultural heritage.
 
 #### Research Companies and Institutes
 
@@ -561,6 +557,59 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 - **[UISPP - International Union of Prehistoric and Protohistoric Sciences](http://www.uispp.org/)** (International): A global organization focusing on the study of prehistoric and protohistoric archaeology.
 - **[Facebook: Prehistoric Archaeology Group](https://www.facebook.com/groups/prehistoricarchaeology/)**: An online community for sharing research, discoveries, and discussions on prehistoric archaeology.
 - **[Reddit: r/Prehistory](https://www.reddit.com/r/prehistory/)**: A forum for discussing prehistoric archaeology, including recent excavations and theoretical approaches.
+
+</details>
+
+### Public Archaeology
+<details>
+<summary><strong>Definition:</strong> Public Archaeology is the practice of engaging the public in archaeological research, interpretation, and preservation. It focuses on making archaeology accessible and relevant to communities through education, outreach, heritage management, and collaboration with local populations.</summary>
+
+**Related disciplines**: [Heritage Management](#heritage-management), which deals with the conservation and presentation of cultural heritage, and [Community Archaeology](#community-archaeology), which involves active participation of communities in archaeological projects.
+
+#### Courses/Study Programs
+
+- [University College London (UCL) - MA in Public Archaeology](https://www.ucl.ac.uk/archaeology/study/graduate-taught/ma-public-archaeology) (London, UK - Europe): Offers training in engaging the public with archaeology, focusing on outreach, education, and heritage management.
+- [Newcastle University - MA in Museum, Gallery and Heritage Studies](https://www.ncl.ac.uk/postgraduate/degrees/heritage-museum-gallery-studies-ma/) (Newcastle, UK - Europe): A course that includes public archaeology, museum studies, and heritage management.
+- [University of Leicester - MA in Archaeology and Heritage](https://le.ac.uk/courses/archaeology-and-heritage-ma) (Leicester, UK - Europe): Provides a strong focus on heritage management, public engagement, and the communication of archaeology.
+- [Boston University - MA in Public Archaeology](https://www.bu.edu/archaeology/academics/graduate-programs/ma-in-public-archaeology/) (Massachusetts, USA - North America): Specializes in engaging the public with archaeological research and heritage conservation.
+- [Flinders University - MA in Public Archaeology](https://www.flinders.edu.au/study/courses/postgraduate-coursework/archaeology-public) (Adelaide, Australia - Oceania): A program emphasizing heritage management, community involvement, and public engagement in archaeology.
+
+#### Research Companies and Institutes
+
+- **[Historic England](https://historicengland.org.uk/)** (England, UK - Europe): A government organization involved in preserving historic sites and engaging the public in archaeological heritage.
+- **[Society for American Archaeology (SAA) - Public Archaeology Interest Group](https://www.saa.org/)** (USA & International): Focuses on promoting public engagement in archaeology and heritage.
+- **[Archaeology Scotland](https://archaeologyscotland.org.uk/)** (Scotland, UK - Europe): Works to engage local communities with archaeology through outreach and education projects.
+
+#### Key Books/Articles
+
+- **Public Archaeology** by Nick Merriman: A comprehensive introduction to the field, exploring how archaeology can be communicated to the public and the role of heritage in society.
+- **Archaeology and the Public Purpose** by Gabriel Moshenska: Examines the relationship between archaeologists and the public, focusing on outreach, education, and the ethics of public engagement.
+- **Digging for the Public: Archaeological Practice in a Public Context** edited by Carol McDavid and David W. Babson: A collection of essays on public archaeology projects, focusing on community engagement and collaborative research.
+
+#### Journals/Journal Series
+
+- **[Public Archaeology](https://www.tandfonline.com/toc/ypua20/current)**: A journal dedicated to public archaeology, focusing on community archaeology, outreach, and the communication of heritage.
+- **[Journal of Community Archaeology & Heritage](https://www.tandfonline.com/toc/yjch20/current)**: Covers community and public archaeology, focusing on participatory approaches and heritage conservation.
+- **[International Journal of Heritage Studies](https://www.tandfonline.com/toc/rjhs20/current)**: Frequently publishes research on heritage management, public engagement, and archaeological outreach.
+
+#### Relevant Podcasts/Videos/Newsletters/Blogs
+
+- **[Podcast: The Public Archaeology Podcast](https://www.archaeologypodcastnetwork.com/)**: Discusses topics related to public archaeology, heritage management, and community involvement in archaeological projects.
+- **[YouTube: Public Archaeology in Practice](https://www.youtube.com/)**: A video series featuring public archaeology projects, fieldwork, and educational outreach.
+- **[Blog: The Public Archaeology Blog](https://www.publicarchaeology.org/)**: Features articles and updates on public archaeology projects, community initiatives, and heritage conservation.
+
+#### Conferences
+
+- **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Includes sessions on public archaeology, heritage outreach, and the role of archaeology in contemporary society.
+- **[Society for American Archaeology (SAA) Annual Meeting](https://www.saa.org/annual-meeting)** (USA & International): Regularly features discussions on public engagement, heritage management, and community archaeology.
+- **[World Archaeological Congress (WAC)](https://worldarch.org/) (International)**: Focuses on global approaches to archaeology, with sessions on public archaeology, social justice, and community involvement.
+
+#### Societies/Online Groups/Forums
+
+- **[Society for American Archaeology (SAA) - Public Archaeology Interest Group](https://www.saa.org/)** (USA & International): A group dedicated to promoting public involvement in archaeology.
+- **[European Association of Archaeologists (EAA) - Public Archaeology Working Group](https://www.e-a-a.org/)** (International): A group focused on sharing best practices in public archaeology across Europe.
+- **[Facebook: Public Archaeology Network](https://www.facebook.com/groups/publicarchaeology/)**: An online community where professionals and enthusiasts share experiences and best practices in public archaeology.
+- **[Reddit: r/PublicArchaeology](https://www.reddit.com/r/PublicArchaeology/)**: A forum for discussing public archaeology, heritage management, and outreach projects.
 
 </details>
 
