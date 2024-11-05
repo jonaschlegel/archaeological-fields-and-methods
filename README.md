@@ -32,56 +32,99 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 ---
 
 ### Aerial Archaeology
+### Aerial Archaeology
+
 <details>
 <summary><strong>Definition:</strong> Aerial Archaeology is the study and discovery of archaeological sites and landscapes through the use of aerial photographs, satellite imagery, drones, and other remote sensing technologies to detect and map archaeological features.</summary>
 
 #### Courses/Study Programs
 
-- [University of Oxford - MSc in Applied Landscape Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology) (Oxford, UK - Europe): A specialized course focused on aerial and satellite-based surveying techniques for archaeological research.
-- [Aberystwyth University - MSc in Remote Sensing and GIS](https://courses.aber.ac.uk/postgraduate/gis-remote-sensing-masters/) (Aberystwyth, Wales - Europe): A program focusing on the application of remote sensing techniques for archaeology and cultural heritage.
+- [University of Oxford - MSc in Applied Landscape Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology) (Oxford, UK - Europe): A specialized course focused on landscape archaeology, incorporating aerial and satellite-based surveying techniques for archaeological research.
+- [Aberystwyth University - MSc in Remote Sensing and GIS](https://courses.aber.ac.uk/postgraduate/gis-remote-sensing-masters/) (Aberystwyth, Wales - Europe): A program focusing on the application of remote sensing and GIS techniques, relevant to archaeology and cultural heritage studies.
 
 #### Research Companies and Institutes
 
-- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): A leader in the use of aerial and geophysical prospection technologies in archaeology.
-- **[English Heritage Aerial Survey Team](https://historicengland.org.uk/research/methods/airborne-remote-sensing/)** (UK): Specializes in aerial photography, LiDAR, and remote sensing technologies.
-- **[Aerial Archaeology Research Group (AARG)](https://www.aarg.org/)** (International): A global group specializing in aerial archaeology and the interpretation of aerial imagery.
+- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): A leader in developing and applying non-invasive methods, including aerial and geophysical prospection technologies, in archaeology.
+- **[Historic England - Airborne and Remote Sensing](https://historicengland.org.uk/research/methods/airborne-remote-sensing/)** (UK): Specializes in aerial photography, LiDAR, and other remote sensing technologies for heritage research and conservation.
+- **[Aerial Archaeology Research Group (AARG)](https://aargonline.com/wp/)** (International): A global group dedicated to the study and promotion of aerial archaeology and the interpretation of aerial imagery.
 
 #### Key Books/Articles
 
-- **Aerial Archaeology** by David R. Wilson: A comprehensive introduction to aerial photography and the role of aerial surveys in archaeology.
-- **Seeing Beneath the Soil** by Anthony Clark: A key text that examines how aerial photography is used in conjunction with geophysics to detect archaeological sites.
+- **Aerial Archaeology** by David R. Wilson: A comprehensive introduction to aerial photography and its role in archaeological surveys.
+- **Seeing Beneath the Soil** by Anthony Clark: Explores the integration of aerial photography with geophysical methods to detect archaeological sites.
 - **Remote Sensing in Archaeology** edited by James Wiseman and Farouk El-Baz: A collection of essays on the application of remote sensing technologies in archaeological exploration.
 
 #### Journals/Journal Series
 
-- **[Aerial Archaeology Research Group (AARG) Newsletter](https://www.aarg.org/)**: A publication providing updates, research, and discussions related to aerial archaeology.
-- **[Journal of Remote Sensing and Archaeology](https://www.springer.com/journal/12478)**: Focuses on research into remote sensing technologies and their application to archaeology.
-- **[International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20)**: Publishes research on remote sensing techniques, including their application to archaeology.
+- **[AARGnews](https://aargonline.com/wp/aarg-news/)**: The bi-annual newsletter of the Aerial Archaeology Research Group, providing updates, research articles, and discussions related to aerial archaeology.
+- **[Journal of Archaeological Science](https://www.sciencedirect.com/journal/journal-of-archaeological-science)**: Publishes research on the application of scientific techniques, including remote sensing, in archaeology.
+- **[International Journal of Remote Sensing](https://www.tandfonline.com/loi/tres20)**: Features research on remote sensing techniques, including their application to archaeology.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[YouTube: Aerial Archaeology in Practice](https://www.youtube.com/)**: A video series showing aerial archaeology in action, with examples from excavations around the world.
-- **[Podcast: Archaeology Podcast Network - Aerial Archaeology Series](https://www.archaeologypodcastnetwork.com/)**: Features interviews and discussions on the importance and future of aerial archaeology.
-- **[Newsletter: AARG News](https://www.aarg.org/)**: The official newsletter of the Aerial Archaeology Research Group (AARG), providing updates on new discoveries, tools, and techniques.
+- **[Aerial Archaeology Research Group - YouTube Channel](https://www.youtube.com/@aerialarchaeology)**: Features videos and lectures on aerial archaeology practices and discoveries.
+- **[Archaeology Podcast Network](https://www.archaeologypodcastnetwork.com/)**: Offers podcasts discussing various topics in archaeology, including episodes on aerial archaeology.
+- **[AARGnews](https://aargonline.com/wp/aarg-news/)**: The official newsletter of the Aerial Archaeology Research Group, providing updates on new discoveries, tools, and techniques.
 
 #### Conferences
 
-- **[Aerial Archaeology Research Group (AARG) Annual Conference](https://www.aarg.org/)** (International): A yearly event that brings together professionals and enthusiasts to discuss the latest advances and discoveries in aerial archaeology.
+- **[Aerial Archaeology Research Group (AARG) Annual Conference](https://aargonline.com/wp/)** (International): A yearly event that brings together professionals and enthusiasts to discuss the latest advances and discoveries in aerial archaeology.
 - **[Computer Applications and Quantitative Methods in Archaeology (CAA) Conference](https://www.caaconference.org/)** (International): A conference that regularly covers aerial and remote sensing technologies in archaeology.
 
 #### Societies/Online Groups/Forums
 
-- **[Aerial Archaeology Research Group (AARG)](https://www.aarg.org/)** (International): A global society promoting aerial archaeology and its methodologies.
-- **[Historic England - Aerial Survey and Remote Sensing Forum](https://historicengland.org.uk/research/methods/airborne-remote-sensing/)** (UK): A forum for discussion and research into aerial archaeology and remote sensing.
+- **[Aerial Archaeology Research Group (AARG)](https://aargonline.com/wp/)** (International): A global society promoting aerial archaeology and its methodologies.
+- **[Historic England - Airborne and Remote Sensing](https://historicengland.org.uk/research/methods/airborne-remote-sensing/)** (UK): Provides resources and forums for discussion and research into aerial archaeology and remote sensing.
 - **[Facebook: Aerial Archaeology Enthusiasts](https://www.facebook.com/groups/aerialarchaeology/)**: A community of aerial archaeology enthusiasts sharing images, discoveries, and knowledge.
 
 </details>
 
+### Archaeological Illustration
+
+<details>
+<summary><strong>Definition:</strong> Archaeological Illustration is the practice of creating visual representations of archaeological materials, including artifacts, structures, and sites, to aid in documentation, analysis, and dissemination of archaeological findings.</summary>
+
+#### Courses/Study Programs
+
+- [University of Edinburgh - Archaeological Illustration (PGHC11060)](https://www.drps.ed.ac.uk/22-23/dpt/cxpghc11060.htm) (Edinburgh, Scotland - Europe): A course offering practical skills in drawing and digital illustration techniques for archaeological documentation.
+- [Columbia University - Sci&Art in Archaeological Illustration (GU4481)](https://anthropology.columbia.edu/content/sciart-archaeological-illustration) (New York, USA - North America): A course exploring the intersections of scientific illustration and archaeology, emphasizing the role of visual representation in archaeological research.
+
+#### Research Companies and Institutes
+
+- **[Mark Hoyle - Archaeological Illustration](https://markhoyle.com/)** (UK): Provides professional archaeological illustration services with over 20 years of experience in the field.
+- **[Das Kreativnetzwerk für Visualisierung - Archäologische Illustrationen](https://www.archaeologische-illustrationen.de/)** (Germany): Specializes in detailed reconstructions, 3D animations, explanatory videos, and infographics to convey archaeological concepts to a broad audience.
+
+#### Key Books/Articles
+
+- **Archaeological Illustration** by Lesley Adkins and Roy Adkins: A comprehensive guide covering the history, techniques, and applications of illustration in archaeology.
+- **Approaches to Archaeological Illustration: A Handbook** by Mélanie Steiner: Provides insights into various methods and challenges in archaeological illustration, serving as a valuable resource for students and professionals.
+- **Archaeological Illustration and Publication** by E. B. Banning: Discusses the role of illustrations in archaeological publications and the conventions used in artifact depiction.
+
+#### Journals/Journal Series
+
+- **[Advances in Archaeological Practice](https://www.cambridge.org/core/journals/advances-in-archaeological-practice)**: Features articles on innovative methods in archaeology, including the use of artificial intelligence in archaeological illustration.
+- **[Journal of Archaeological Science](https://www.sciencedirect.com/journal/journal-of-archaeological-science)**: Publishes research on scientific techniques in archaeology, encompassing studies on illustration and visualization methods.
+
+#### Relevant Podcasts/Videos/Newsletters/Blogs
+
+- **[Illustrating Ancient History - University of Cambridge](https://www.museums.cam.ac.uk/story/illustrating-ancient-history/)**: A blog post discussing the role of illustration in understanding and interpreting ancient history.
+- **[Archaeo-Logic: Archaeological Illustration](https://www.archaeologic.org/archaeological-illustration)**: A blog exploring the importance of illustration in the archaeological process, including techniques and tools used by professionals.
+
+#### Conferences
+
+- **[Computer Applications and Quantitative Methods in Archaeology (CAA) Conference](https://www.caaconference.org/)** (International): A conference that regularly includes sessions on archaeological illustration and visualization techniques.
+
+
+#### Societies/Online Groups/Forums
+
+- **[Graphics Archaeology Group (GAG) - Chartered Institute for Archaeologists (CIfA)](https://www.gag-cifa.org/)** (UK): A group dedicated to promoting standards and best practices in archaeological illustration and graphics.
+- **[Archaeological Illustration Enthusiasts - Facebook Group](https://www.facebook.com/groups/archaeologicalillustration/)**: An online community for sharing knowledge, techniques, and discussions related to archaeological illustration.
+
+</details>
 
 ### Bioarchaeology
 <details>
 <summary><strong>Definition:</strong> Bioarchaeology is the study of human remains in an archaeological context, focusing on understanding health, diet, demography, and cultural practices of past populations through skeletal analysis, and sometimes soft tissue preservation.</summary>
-
 
 **Related discipline**: [Osteoarchaeology](#osteaoarchaeology), which focuses specifically on the study of bones in archaeological contexts.
 
@@ -92,19 +135,19 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 - [University of Sheffield - MSc in Bioarchaeology](https://www.sheffield.ac.uk/biosciences/research/areas/bioarchaeology) (Sheffield, UK - Europe): A course with a focus on bioarchaeological research.
 - [Bournemouth University - MSc in Bioarchaeology](https://www.bournemouth.ac.uk/study/courses/msc-bioarchaeology) (Bournemouth, UK - Europe): Focuses on the study of human remains and environmental contexts in archaeology.
 - [University of Aberdeen - MSc in Bioarchaeological Science](https://www.abdn.ac.uk/study/postgraduate-taught/degree-programmes/1220/bioarchaeological-science/) (Aberdeen, UK - Europe): Combines archaeology, human biology, and chemistry for interdisciplinary research.
-- [University of Leiden - MSc in Bioarchaeology](https://www.universiteitleiden.nl/en/archaeology/archaeological-sciences/bioarchaeology) (Leiden, Netherlands - Europe): This program covers bioarchaeology in-depth, exploring human remains and archaeological sciences.
+- [Leiden University - MSc in Bioarchaeology](https://www.universiteitleiden.nl/en/archaeology/archaeological-sciences/bioarchaeology) (Leiden, Netherlands - Europe): This program covers bioarchaeology in-depth, exploring human remains and archaeological sciences.
 - [University of Wollongong - Bioarchaeology Research Theme](https://www.uow.edu.au/science-medicine-health/research/centre-for-archaeological-science/research-themes/bioarchaeology/) (Wollongong, Australia - Oceania): Focuses on research into ancient health, diet, and demography.
 - [The University of Manchester - Bioarchaeology Research](http://www.ical.manchester.ac.uk/research/bioarchaeology/) (Manchester, UK - Europe): Research-focused bioarchaeology program.
 - [Australian National University - Bioarchaeology Specialisation](https://programsandcourses.anu.edu.au/specialisation/bafa-spec) (Canberra, Australia - Oceania): Focus on bioarchaeology and its interdisciplinary applications.
-- [Arizona State University - Bioarchaeological Research Center](https://shesc.asu.edu/centers/bioarchaeological-research) (Arizona, USA - North America): A leading research institution focused on human remains and bioarchaeological methodologies.
-- [Exeter University - MSc in Zooarchaeology with a Bioarchaeology Specialisation](https://www.exeter.ac.uk/study/postgraduate/courses/archaeology/zooarchaeology/) (Exeter, UK - Europe): A course blending bioarchaeology and zooarchaeology.
+- [Arizona State University - Center for Bioarchaeological Research](https://shesc.asu.edu/centers/bioarchaeological-research) (Arizona, USA - North America): A leading research institution focused on human remains and bioarchaeological methodologies.
+- [University of Exeter - MSc in Zooarchaeology](https://www.exeter.ac.uk/study/postgraduate/courses/archaeology/zooarchaeology/) (Exeter, UK - Europe): A course blending bioarchaeology and zooarchaeology.
 - [Trent University - Bioarchaeology Program](https://www.trentu.ca/futurestudents/program/archaeology/bioarchaeology) (Ontario, Canada - North America): Offers a focused program on bioarchaeology.
 
 #### Research Companies and Institutes
 
 - **[Max Planck Institute for Evolutionary Anthropology](https://www.eva.mpg.de/)** (Leipzig, Germany - Europe): Leading research on human evolution and bioarchaeology.
 - **[Leverhulme Centre for Human Evolutionary Studies (LCHES)](https://www.human-evol.cam.ac.uk/)** (Cambridge, UK - Europe): Focuses on human evolutionary biology, bioarchaeology, and ancient DNA.
-- **[Bioarchaeological Research Center](https://shesc.asu.edu/centers/bioarchaeological-research)** (Arizona State University, USA - North America): A center dedicated to bioarchaeological studies in human remains and culture.
+- **[Center for Bioarchaeological Research](https://shesc.asu.edu/centers/bioarchaeological-research)** (Arizona State University, USA - North America): A center dedicated to bioarchaeological studies in human remains and culture.
 
 #### Key Books/Articles
 
@@ -115,16 +158,15 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Journals/Journal Series
 
-- **[Bioarchaeology International](https://bioarchaeologyjournal.org/)**: A peer-reviewed journal focusing on bioarchaeological research.
-- **[Journal of Bioarchaeology](https://mattioli1885journals.com/index.php/JBR)**: Covers a range of bioarchaeological research globally.
-- **[Journal of Bioarchaeology](https://journals.upress.ufl.edu/bioarchaeology)**: Another journal providing cutting-edge research and studies in bioarchaeology.
+- **[Bioarchaeology International](https://journals.upress.ufl.edu/bioarchaeology)**: A peer-reviewed journal focusing on bioarchaeological research.
+- **[Journal of Bioarchaeological Research](https://mattioli1885journals.com/index.php/JBR)**: Covers a range of bioarchaeological research globally.
+- **[Bioarchaeology International](https://journals.upress.ufl.edu/bioarchaeology)**: Provides cutting-edge research and studies in bioarchaeology.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: That Anthro Podcast - Bioarchaeology episode](https://www.thatanthropodcast.com/)**: Discusses bioarchaeology in relation to ancient diet and human remains.
-- **[YouTube: Bioarchaeology Explained](https://www.youtube.com/)**: A video explaining the basics of bioarchaeological research.
-- **[PLOS Bioarchaeology Blog](https://blogs.plos.org/biologue/)**: Features news, articles, and breakthroughs in bioarchaeological research.
-- **[Forbes Bioarchaeology Blog Post](https://www.forbes.com/sites/kristinakillgrove/2015/05/01/youre-a-bioarchaeologist-what-is-that/)**: Discusses the field of bioarchaeology and its growing importance.
+- **[That Anthro Podcast - Bioarchaeology episode on Spotify]([https://www.thatanthropodcast.com/](https://podcasters.spotify.com/pod/show/gabby-campbell1/episodes/Bioarchaeology-Addressing-the-Past-episode-1-of-3-e2fcuu8))**: Discusses bioarchaeology in relation to ancient diet and human remains.
+- **[PLOS Biologue](https://blogs.plos.org/biologue/)**: Features news, articles, and breakthroughs in bioarchaeological research.
+- **[Forbes Article: "You're a Bioarchaeologist? What Is That?"](https://www.forbes.com/sites/kristinakillgrove/2015/05/01/youre-a-bioarchaeologist-what-is-that/)**: Discusses the field of bioarchaeology and its significance.
 
 #### Conferences
 
@@ -134,7 +176,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Societies/Online Groups/Forums
 
 - **[British Association for Biological Anthropology and Osteoarchaeology (BABAO)](https://www.babao.org.uk/)** (UK): The primary organisation for bioarchaeologists in the UK.
-- **[American Association of Physical Anthropologists (AAPA)](https://physanth.org/)** (USA): A global organisation promoting biological and bioarchaeological research.
+- **[American Association of Biological Anthropologists (AAPA)]([https://physanth.org/](https://bioanth.org/))** (USA): A global organisation promoting biological and bioarchaeological research.
 - **[Facebook: Bioarchaeology Network](https://www.facebook.com/groups/bioarchaeology/)**: A group for students and researchers to share news, findings, and discuss bioarchaeology.
 - **[Reddit: r/Bioarchaeology](https://www.reddit.com/r/bioarchaeology/)**: A community discussing bioarchaeological research and topics.
 </details>
@@ -148,10 +190,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Courses/Study Programs
 
 - [University of Oxford - MSt/MPhil in Classical Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/mst-classical-archaeology) (Oxford, UK - Europe): Offers specialized training in the material culture of the ancient Greek and Roman world.
-- [University of Cambridge - MPhil in Archaeology (Classical Archaeology)](https://www.arch.cam.ac.uk/graduate/graduate-study/classical) (Cambridge, UK - Europe): Focuses on the archaeology of ancient Greece and Rome, with an emphasis on material culture, architecture, and art.
-- [University College London (UCL) - MA in Classical Archaeology](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/classical-archaeology-ma) (London, UK - Europe): A comprehensive program studying the archaeology of the Mediterranean world, focusing on Greece, Rome, and their peripheries.
-- [University of Edinburgh - MSc in Classical Art and Archaeology](https://www.ed.ac.uk/history-classics-archaeology/graduate-school/programmes/msc-classical-art-archaeology) (Edinburgh, UK - Europe): Explores ancient Mediterranean art, architecture, and archaeological evidence.
-- [Sapienza University of Rome - Master's in Classical Archaeology](https://corsidilaurea.uniroma1.it/en/corso/2021/classical-archaeology) (Rome, Italy - Europe): Focuses on archaeological sites in Italy, Greece, and the Mediterranean, with practical fieldwork opportunities.
 
 #### Research Companies and Institutes
 
@@ -173,9 +211,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: The History of Ancient Greece](https://www.thehistoryofancientgreece.com/)**: Covers Greek history, art, and archaeology, focusing on major sites and discoveries.
-- **[YouTube: Classical Archaeology in Action](https://www.youtube.com/)**: A video series showcasing excavations, art, and material culture from the classical Mediterranean world.
-- **[Blog: Classical Archaeology Blog](https://classicalarchaeology.wordpress.com/)**: Features updates on classical archaeology research, fieldwork, and publications.
+- 
 
 #### Conferences
 
@@ -185,10 +221,8 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Societies/Online Groups/Forums
 
-- **[The Classical Association](https://classicalassociation.org/)** (UK & International): A society promoting the study of ancient Greece and Rome, including classical archaeology.
+- **[The Classical Association](https://classicalassociation.org/conference/)** (UK & International): A society promoting the study of ancient Greece and Rome, including classical archaeology.
 - **[American Society of Classical Studies (ASCS)](https://www.ascsa.edu.gr/)** (USA & Greece): An organization that promotes the study and research of classical Greek and Roman archaeology.
-- **[Facebook: Classical Archaeology Forum](https://www.facebook.com/groups/classicalarchaeology/)**: An online group where classical archaeologists share research, fieldwork, and discussions.
-- **[Reddit: r/ClassicalArchaeology](https://www.reddit.com/r/ClassicalArchaeology/)**: A forum for discussing classical archaeology, including excavations and material culture from the ancient Mediterranean.
 
 </details>
 
@@ -198,10 +232,9 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Courses/Study Programs
 
-- [Leiden University - MSc in Digital Archaeology](https://www.universiteitleiden.nl/en/education/study-programmes/master/archaeology/digital-archaeology) (Leiden, Netherlands - Europe): A master’s program focusing on the use of digital tools in archaeological research and heritage.
-- [University College London (UCL) - MSc in Digital Humanities and Archaeology](https://www.ucl.ac.uk/dh/courses/msc-digital-humanities) (London, UK - Europe): A program that blends archaeology with digital humanities to study and manage cultural heritage digitally.
+- [Leiden University - MSc in Digital Archaeology](https://www.universiteitleiden.nl/en/archaeology/archaeological-sciences/digital-archaeology) (Leiden, Netherlands - Europe): A master’s program focusing on the use of digital tools in archaeological research and heritage.
+- [University College London (UCL) - MSc in Digital Humanities and Archaeology](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/digital-humanities-msc) (London, UK - Europe): A program that blends archaeology with digital humanities to study and manage cultural heritage digitally.
 - [University of York - MSc in Archaeological Information Systems](https://www.york.ac.uk/archaeology/postgraduate-study/taught-postgrads/msc-digital-heritage/) (York, UK - Europe): Focuses on managing and processing archaeological data with digital tools.
-- [University of Southampton - MA in Digital Archaeology](https://www.southampton.ac.uk/courses/archaeology-digital-masters-ma) (Southampton, UK - Europe): Specializes in the use of digital imaging and 3D reconstruction in archaeological research.
 - [University of Leicester - MSc in Archaeological Geomatics](https://le.ac.uk/courses/archaeological-geography-and-gis-msc) (Leicester, UK - Europe): Combines archaeology with geomatics and GIS technology to study archaeological landscapes.
 
 #### Research Companies and Institutes
@@ -225,20 +258,19 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
 - **[Podcast: Archaeology Podcast Network - Digital Archaeology Series](https://www.archaeologypodcastnetwork.com/)**: A series of discussions about the latest in digital archaeology.
-- **[YouTube: Virtual Archaeology and 3D Modelling](https://www.youtube.com/)**: A video series showcasing virtual archaeology projects, including 3D reconstructions of ancient sites.
-- **[Blog: Digital Archaeology Blog](https://digitalarchaeology.org/blog/)**: Features articles on the latest trends in digital archaeology, including 3D documentation, virtual reconstructions, and digital databases.
+- **[YouTube: CyArk](https://www.youtube.com/user/CyArk)**: Features videos showcasing digital preservation projects and 3D reconstructions of heritage sites.
+- **[CAA International Blog](https://journal.caa-international.org/)**: Provides articles and updates on computer applications in archaeology.
 
 #### Conferences
 
 - **[Computer Applications and Quantitative Methods in Archaeology (CAA) Annual Conference](https://www.caaconference.org/)** (International): A yearly conference focusing on the application of digital tools and computational methods in archaeology.
-- **[Digital Heritage International Congress](https://www.digitalheritage2018.org/)** (International): A global conference that brings together professionals from the digital heritage field, including digital archaeology experts.
+- **Digital Heritage International Congress** (International): A global conference that brings together professionals from the digital heritage field, including digital archaeology experts.
 - **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Includes sessions on digital archaeology and the latest technological innovations.
 
 #### Societies/Online Groups/Forums
 
 - **[Computer Applications and Quantitative Methods in Archaeology (CAA)](https://www.caaconference.org/)** (International): An international organization promoting the use of digital technologies in archaeology.
 - **[CyArk - Digital Preservation Forum](https://www.cyark.org/)** (International): A community dedicated to the digital preservation of archaeological sites and cultural heritage through 3D documentation.
-- **[Facebook: Digital Archaeology Forum](https://www.facebook.com/groups/digitalarchaeology/)**: An online group where archaeologists discuss and share their experiences with digital tools and methods.
 
 </details>
 
@@ -246,21 +278,21 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 <details>
 <summary><strong>Definition:</strong> Environmental Archaeology is the study of past human interaction with the environment through the analysis of biological remains (plants, animals, insects), soils, and sediments. It seeks to understand how ancient societies adapted to and modified their natural surroundings.</summary>
 
-**Related disciplines**: [Zooarchaeology](#zooarchaeology), which focuses on the study of animal remains; [Palaeoecology](#palaeoecology), which studies ancient ecosystems and climate change through environmental proxies.
+**Related disciplines**: [Palaeoecology](https://www.nature.com/subjects/palaeoecology#:~:text=Palaeoecology%20is%20the%20study%20of,between%20species%20and%20their%20environment.), which studies ancient ecosystems and climate change through environmental proxies.
 
 #### Courses/Study Programs
 
 - [University of York - MSc in Environmental Archaeology](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-environmental-archaeology/) (York, UK - Europe): A master’s program focusing on the study of environmental data, including plant and animal remains, in archaeological contexts.
-- [University College London (UCL) - MSc in Environmental Archaeology](https://www.ucl.ac.uk/archaeology/study/graduate-taught/msc-environmental-archaeology) (London, UK - Europe): Offers an interdisciplinary approach to studying the relationship between humans and their environments.
-- [University of Reading - MSc in Environmental Archaeology](https://www.reading.ac.uk/archaeology/masters/msc-environmental-archaeology) (Reading, UK - Europe): Focuses on environmental reconstruction, with modules on geoarchaeology, palynology, and soil analysis.
+- [University College London (UCL) - MSc in Environmental Archaeology](https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/environmental-archaeology-msc) (London, UK - Europe): Offers an interdisciplinary approach to studying the relationship between humans and their environments.
 - [Durham University - MSc in Environmental Archaeology](https://www.dur.ac.uk/archaeology/postgraduate/environmental/) (Durham, UK - Europe): Offers a program that integrates environmental data into broader archaeological interpretations.
-- [University of Groningen - MSc in Archaeology (Environmental Archaeology Specialisation)](https://www.rug.nl/masters/archaeology-environmental-archaeology-specialisation/) (Groningen, Netherlands - Europe): Combines environmental science with archaeological research, focusing on ancient environments and human adaptation.
+- [Australian Naional University - Specialisation: Environmental Archaeology and Climate Change](https://programsandcourses.anu.edu.au/specialisation/eacc-spec)
+- [Umea University - MSc in Environmental Archaeology](https://www.umu.se/en/education/master/masters-programme-in-environmental-archaeology/) 
+
 
 #### Research Companies and Institutes
 
-- **[Max Planck Institute for Geoanthropology](https://www.shh.mpg.de/geoanthropology)** (Jena, Germany - Europe): Focuses on human-environmental interactions through archaeological data, including palaeoenvironmental analysis.
 - **[Oxford Archaeology - Environmental Archaeology Team](https://oxfordarchaeology.com/)** (Oxford, UK - Europe): Specializes in environmental sampling and analysis as part of archaeological projects.
-- **[The York Environmental Archaeology Unit](https://www.york.ac.uk/archaeology/research/research-centres/yeau/)** (York, UK - Europe): A leading research institute dedicated to the study of environmental archaeology.
+- **[The York Environmental Archaeology Unit](https://archaeologydataservice.ac.uk/archives/view/EAU/)** (York, UK - Europe): A leading research institute dedicated to the study of environmental archaeology.
 
 #### Key Books/Articles
 
@@ -276,8 +308,8 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: Archaeology Podcast Network - Environmental Archaeology Episodes](https://www.archaeologypodcastnetwork.com/)**: Features interviews and discussions on environmental archaeology topics.
-- **[YouTube: Environmental Archaeology in Action](https://www.youtube.com/)**: Videos that show environmental archaeology techniques in fieldwork and lab settings.
+- **[Podcast: Association for Environmental Archaeology](https://soundcloud.com/envarch)**: Features interviews and discussions on environmental archaeology topics from Dung Beaatle to Broiler Chicken.
+- **[That Anthro Podcast - Episode:Zooarchaeology and Environmental Archaeology with Dr. Sarah McClure](https://podcasters.spotify.com/pod/show/gabby-campbell1/episodes/Zooarchaeology-and-Environmental-Archaeology-with-Dr--Sarah-McClure-elm47d)**: Features Dr. Sarah McClure as a guest on ThatAnthroPodcast
 - **[Blog: The Environmental Archaeology Blog](https://www.environmentalarchaeology.org/)**: Features articles and discussions on the latest trends and discoveries in environmental archaeology.
 
 #### Conferences
@@ -289,8 +321,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Societies/Online Groups/Forums
 
 - **[Association for Environmental Archaeology (AEA)](https://www.envarch.net/)** (International): A global society dedicated to promoting the study of environmental archaeology.
-- **[Facebook: Environmental Archaeology Group](https://www.facebook.com/groups/environmentalarchaeology/)**: An online group where students and professionals discuss environmental archaeology and share their work.
-- **[Reddit: r/EnvironmentalArchaeology](https://www.reddit.com/r/environmentalarchaeology/)**: A community discussing environmental archaeology research and related topics.
 
 </details>
 
