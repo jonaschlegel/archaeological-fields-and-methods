@@ -190,6 +190,14 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Courses/Study Programs
 
 - [University of Oxford - MSt/MPhil in Classical Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/mst-classical-archaeology) (Oxford, UK - Europe): Offers specialized training in the material culture of the ancient Greek and Roman world.
+- [University of Vienna - BA in Classical Archaeology](https://studieren.univie.ac.at/en/degree-programmes/bachelor-programmes/classical-archaeology/) (Vienna, Austria - Europe): Provides foundational knowledge in the study of the material culture of the Mediterranean region in antiquity.
+- [Heidelberg University - MA in Classical Archaeology](https://www.uni-heidelberg.de/en/study/all-subjects/classical-archaeology/classical-archaeology-master) (Heidelberg, Germany - Europe): Offers comprehensive training in archaeological methods and material culture of ancient civilizations.
+- [Uppsala University - Master's Programme in Classical Archaeology and Ancient History](https://www.uu.se/en/study/programme/masters-programme-classical-archaeology-and-ancient-history) (Uppsala, Sweden - Europe): Provides a broad education in the history, archaeology, art, religion, and philosophy of the ancient world.
+- [Freie Universität Berlin - MA in Classical Archaeology](https://www.fu-berlin.de/en/studium/studienangebot/master/klass_archaeologie/index.html) (Berlin, Germany - Europe): Focuses on sites, artwork, and objects from Greek and Roman cultures, emphasizing academic working methods and analytical skills.
+- [University of Tübingen - BA in Classical Archaeology](https://uni-tuebingen.de/studium/studienangebot/verzeichnis-der-studiengaenge/detail/course/klassische-archaeologie-bachelor/) (Tübingen, Germany - Europe): Offers an overview of Greek and Roman archaeology, including practical skills in excavation and analysis.
+- [University of Cambridge - MPhil in Archaeology (Classical Archaeology)](https://www.arch.cam.ac.uk/study/prospective-graduates/mphil-archaeology) (Cambridge, UK - Europe): Provides students with a deeper understanding of the archaeology and material culture of the ancient world.
+- [University of Cologne - MA in Classical Archaeology](https://archaeologie.phil-fak.uni-koeln.de/en/studium/master/ma-klassische-archaeologie) (Cologne, Germany - Europe): Focuses on archaeological research and the material culture of the Mediterranean region from the Bronze Age to Late Antiquity.
+- [Ludwig Maximilian University of Munich (LMU) - BA in Classical Archaeology](https://www.en.uni-muenchen.de/students/degree/bachelor/classical_arch/index.html) (Munich, Germany - Europe): Offers foundational courses in the archaeology of the classical world, with opportunities for hands-on fieldwork.
 
 #### Research Companies and Institutes
 
