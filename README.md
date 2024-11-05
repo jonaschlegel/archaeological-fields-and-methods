@@ -32,7 +32,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 ---
 
 ### Aerial Archaeology
-### Aerial Archaeology
 
 <details>
 <summary><strong>Definition:</strong> Aerial Archaeology is the study and discovery of archaeological sites and landscapes through the use of aerial photographs, satellite imagery, drones, and other remote sensing technologies to detect and map archaeological features.</summary>
@@ -123,6 +122,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 </details>
 
 ### Bioarchaeology
+
 <details>
 <summary><strong>Definition:</strong> Bioarchaeology is the study of human remains in an archaeological context, focusing on understanding health, diet, demography, and cultural practices of past populations through skeletal analysis, and sometimes soft tissue preservation.</summary>
 
@@ -182,6 +182,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 </details>
 
 ### Classical Archaeology
+
 <details>
 <summary><strong>Definition:</strong> Classical Archaeology is the study of the material culture of ancient Greece and Rome, including their art, architecture, inscriptions, and everyday objects, as well as the wider Mediterranean world during antiquity.</summary>
 
@@ -283,6 +284,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 </details>
 
 ### Environmental Archaeology
+
 <details>
 <summary><strong>Definition:</strong> Environmental Archaeology is the study of past human interaction with the environment through the analysis of biological remains (plants, animals, insects), soils, and sediments. It seeks to understand how ancient societies adapted to and modified their natural surroundings.</summary>
 
@@ -333,6 +335,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 </details>
 
 ### Experimental Archaeology
+
 <details>
 <summary><strong>Definition:</strong> Experimental Archaeology involves recreating ancient tools, techniques, and processes to better understand how they were used and how past societies lived. It helps to interpret archaeological finds through hands-on experiments and testing hypotheses derived from the archaeological record.</summary>
 
@@ -388,6 +391,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 </details>
 
 ### Graffiti Archaeology
+
 <details>
 <summary><strong>Definition:</strong> Graffiti Archaeology is the study of ancient and modern graffiti in archaeological contexts, focusing on understanding social, political, and cultural expressions of individuals and communities through inscriptions, murals, and other forms of graffiti.</summary>
 
@@ -438,60 +442,59 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 </details>
 
-### Landscape Archaeology
+# Landscape Archaeology
+
 <details>
-<summary><strong>Definition:</strong> Landscape Archaeology is the study of the ways in which humans have interacted with and shaped their natural surroundings, exploring human activities and their impact on the landscape over time, often through surveying, excavation, and remote sensing techniques.</summary>
+<summary><strong>Definition:</strong> Landscape Archaeology is the study of the ways in which people in the past constructed and used the environment around them. It involves analyzing the spatial relationships between archaeological sites and their surrounding landscapes to understand human interaction with the environment over time.</summary>
 
-**Related disciplines**: [Environmental Archaeology](#environmental-archaeology), which examines human-environment interactions, and [Aerial Archaeology](#aerial-archaeology), which uses aerial and satellite imagery to detect archaeological landscapes.
+**Related disciplines**: [Geoarchaeology](#geoarchaeology), which focuses on the geological aspects of archaeological sites; [Environmental Archaeology](#environmental-archaeology), which studies past human interaction with the environment through biological remains.
 
-#### Courses/Study Programs
+### Courses/Study Programs
 
-- [University of Cambridge - MPhil in Archaeology (Landscape Archaeology)](https://www.arch.cam.ac.uk/graduate/graduate-study/landscape) (Cambridge, UK - Europe): Focuses on the study of past landscapes and how human activities have shaped them.
-- [University of Glasgow - MSc in Landscape Archaeology](https://www.gla.ac.uk/postgraduate/taught/archaeologylandscape/) (Glasgow, UK - Europe): A master's program that emphasizes the study of human interaction with the environment through time.
-- [University of York - MA in Landscape Archaeology](https://www.york.ac.uk/archaeology/postgraduate-study/taught-postgrads/ma-landscape-archaeology/) (York, UK - Europe): Offers a combination of fieldwork, GIS, and theoretical approaches to studying landscapes.
-- [University of Leiden - MSc in Archaeology (Heritage and Landscape)](https://www.universiteitleiden.nl/en/education/study-programmes/master/archaeology/heritage-landscape-archaeology) (Leiden, Netherlands - Europe): Specializes in the heritage management and archaeological study of cultural landscapes.
-- [Durham University - MA in Landscape Archaeology](https://www.dur.ac.uk/courses/) (Durham, UK - Europe): Focuses on the analysis and interpretation of archaeological landscapes through survey and remote sensing techniques.
+- [University of Oxford - MSc in Applied Landscape Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology) (Oxford, UK - Europe): A part-time program focusing on the theories and methods of landscape archaeology, emphasizing practical fieldwork and research.
+- [Freie Universität Berlin - MA in Applied Landscape and Field Archaeology](https://www.fu-berlin.de/en/studium/studienangebot/master/angewandte-landschafts-und-feldarchaeologie/index.html) (Berlin, Germany - Europe): A master's program that teaches modern methods and concepts of both landscape and field archaeology, with a focus on the dynamic development of natural and cultural landscapes.
+- [Umeå University - Master's Programme in Landscape Archaeology / Environmental Archaeology](https://www.umu.se/en/education/master/masters-programme-in-landscape-archaeology--environmental-archaeology/) (Umeå, Sweden - Europe): Offers specialization in Landscape or Environmental Archaeology, focusing on interpreting ancient landscapes and environments through various methods.
+- [University of Cambridge - MPhil in Archaeology (Landscape Archaeology)](https://www.arch.cam.ac.uk/graduate/graduate-study/landscape) (Cambridge, UK - Europe): Provides training in landscape archaeology, emphasizing the integration of archaeological and environmental data.
+- [University of Sheffield - MA in Landscape Archaeology](https://www.sheffield.ac.uk/archaeology/postgraduate/masters/landscape-archaeology) (Sheffield, UK - Europe): Focuses on the study of past landscapes and their development over time, combining theoretical and practical approaches.
 
-#### Research Companies and Institutes
+### Research Companies and Institutes
 
-- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Engages in landscape archaeology, using prospection technologies to map and interpret archaeological sites.
-- **[McDonald Institute for Archaeological Research - University of Cambridge](https://www.arch.cam.ac.uk/)** (Cambridge, UK - Europe): Conducts cutting-edge research on landscape archaeology, particularly in Europe and the Mediterranean.
-- **[Oxford Archaeology - Landscape and Environmental Research Team](https://oxfordarchaeology.com/)** (Oxford, UK - Europe): Specializes in the archaeological interpretation of landscapes through field surveys and GIS.
+- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](https://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Dedicated to developing new techniques and methodological concepts for landscape archaeology and the digital preservation of cultural heritage.
+- **[Landscape Archaeology Research Group (GIAP) - Catalan Institute of Classical Archaeology](https://giap.icac.cat/)** (Tarragona, Spain - Europe): Focuses on unraveling the past through the study of human footprints on the landscape, employing various interdisciplinary methods.
+- **[International Association of Landscape Archaeology (IALA)](https://iala-lac.org/)** (International): Aims to promote interdisciplinary research in landscape archaeology, providing a platform for archaeologists and researchers from related disciplines.
+- **[Austrian Archaeological Institute](https://www.oeaw.ac.at/en/oeai/home/)** (Vienna, Austria - Europe): Austria's largest research institution in archaeology and classical studies, studying human history from the Quaternary period to modern times, including landscape archaeology.
+- **[University of Cambridge - Department of Archaeology](https://www.arch.cam.ac.uk/research/projects/landscape-archaeology)** (Cambridge, UK - Europe): Conducts multi-period projects integrating analysis of human and physical landscapes using remote sensing, survey, excavation, and environmental reconstruction.
 
-#### Key Books/Articles
+### Key Books/Articles
 
-- **The Archaeology of Landscapes** edited by Peter J. Ucko and Robert Layton: A key text exploring how landscapes are constructed and interpreted in archaeology.
-- **Landscapes of Change: Rural Evolutions in Late Antiquity and the Early Middle Ages** by Neil Christie: Focuses on how rural landscapes were shaped and changed over time in Europe.
-- **Interpreting Archaeological Landscapes from Air** by Robin H. Palmer and David R. Wilson: Discusses the role of aerial photography and remote sensing in the interpretation of archaeological landscapes.
+- **"Interpreting Archaeology: Finding Meaning in the Past"** edited by Ian Hodder: Discusses various approaches to understanding archaeological landscapes and their significance.
+- **"The Archaeology of Landscapes: Themes and Directions"** edited by Nicholas David and Jonathan Thomas: Explores different themes and methodologies in landscape archaeology.
+- **"Landscape Archaeology: Reading and Interpreting the American Historical Landscape"** by Rebecca Yamin and Karen Bescherer Metheny: Provides insights into interpreting historical landscapes through archaeological methods.
 
-#### Journals/Journal Series
+### Journals/Journal Series
 
-- **[Landscape Research](https://www.tandfonline.com/loi/clar20)**: A journal covering research on the study of landscapes, including archaeological perspectives.
-- **[Journal of Archaeological Landscape Studies](https://www.landscapestudies.com/)**: Focuses on the archaeological interpretation and research of landscapes worldwide.
-- **[Journal of Field Archaeology](https://www.tandfonline.com/toc/yjfa20/current)**: Frequently publishes articles on landscape archaeology, field surveys, and remote sensing applications.
+- **[Journal of Landscape Archaeology](https://www.tandfonline.com/toc/rlah20/current)**: A peer-reviewed journal focusing on the study of past landscapes and human interactions with them.
+- **[Landscapes](https://www.tandfonline.com/toc/rlsp20/current)**: Publishes interdisciplinary research on landscape studies, including archaeological perspectives.
+- **[Antiquity](https://www.cambridge.org/core/journals/antiquity)**: An international journal of archaeology that frequently includes articles on landscape archaeology.
 
-#### Relevant Podcasts/Videos/Newsletters/Blogs
+### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: Archaeology Podcast Network - Landscape Archaeology Series](https://www.archaeologypodcastnetwork.com/)**: Discusses various aspects of landscape archaeology and its methodologies.
-- **[YouTube: Landscape Archaeology in Practice](https://www.youtube.com/)**: Videos showcasing landscape archaeology techniques, including fieldwork and GIS mapping.
-- **[Blog: Landscape Archaeology Blog](https://www.landscapearchaeology.com/)**: A blog focusing on new discoveries and techniques in the field of landscape archaeology.
+- **[Blog: "Landscapes and Layers"](https://landscapesandlayers.wordpress.com/)**: Features articles and discussions on the latest research and developments in landscape archaeology.
 
-#### Conferences
+### Conferences
 
-- **[International Conference on Landscape Archaeology (LAC)](https://www.landscape-archaeology.org/)** (International): A biennial conference dedicated to landscape archaeology and the interdisciplinary study of human-environment interaction.
-- **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Includes sessions on landscape archaeology, GIS, and heritage management.
-- **[Society for American Archaeology (SAA) Annual Meeting](https://www.saa.org/annual-meeting)** (USA & International): Regularly features landscape archaeology research, focusing on fieldwork and GIS-based studies.
+- **[International Conference on Landscape Archaeology (ICLA)](https://www.iala-lac.org/conferences/)** (International): A biennial conference organized by the International Association of Landscape Archaeology, bringing together researchers to discuss the latest findings and methodologies.
+- **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Includes sessions dedicated to landscape archaeology, providing a platform for presenting research and networking.
+- **[Computer Applications and Quantitative Methods in Archaeology (CAA) Annual Conference](https://www.caaconference.org/)** (International): Focuses on digital approaches in archaeology, including landscape analysis and GIS applications.
 
-#### Societies/Online Groups/Forums
+### Societies/Online Groups/Forums
 
-- **[International Association for Landscape Archaeology (IALA)](https://www.landscape-archaeology.org/)** (International): A global organization promoting the study and understanding of archaeological landscapes.
-- **[Landscape Research Group](https://www.landscaperesearch.org/)** (UK & International): Focuses on the interdisciplinary study of landscapes, including archaeological perspectives.
-- **[Facebook: Landscape Archaeology Group](https://www.facebook.com/groups/landscapearchaeology/)**: An online community for landscape archaeologists to discuss fieldwork, discoveries, and techniques.
-- **[Reddit: r/LandscapeArchaeology](https://www.reddit.com/r/landscapearchaeology/)**: A forum for sharing and discussing landscape archaeology research and projects.
-
+- **[International Association of Landscape Archaeology (IALA)](https://iala-lac.org/)** (International): Promotes interdisciplinary research and provides a platform for collaboration among landscape archaeologists.
+- **[Landscape Archaeology and Architecture (LAA) - Berliner Antike-Kolleg](https://www.berliner-antike-kolleg.org/en/landscape)**: Supports research and dialogue in the field of landscape archaeology, emphasizing the relationship between architecture and landscape.
 </details>
 
 ### Osteoarchaeology
+
 <details>
 <summary><strong>Definition:</strong> Osteoarchaeology is the study of human and animal bones in archaeological contexts, focusing on interpreting past human behavior, health, diet, and demographic patterns from skeletal remains.</summary>
 
