@@ -442,14 +442,14 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 </details>
 
-# Landscape Archaeology
+### Landscape Archaeology
 
 <details>
 <summary><strong>Definition:</strong> Landscape Archaeology is the study of the ways in which people in the past constructed and used the environment around them. It involves analyzing the spatial relationships between archaeological sites and their surrounding landscapes to understand human interaction with the environment over time.</summary>
 
 **Related disciplines**: [Geoarchaeology](#geoarchaeology), which focuses on the geological aspects of archaeological sites; [Environmental Archaeology](#environmental-archaeology), which studies past human interaction with the environment through biological remains.
 
-### Courses/Study Programs
+#### Courses/Study Programs
 
 - [University of Oxford - MSc in Applied Landscape Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology) (Oxford, UK - Europe): A part-time program focusing on the theories and methods of landscape archaeology, emphasizing practical fieldwork and research.
 - [Freie Universität Berlin - MA in Applied Landscape and Field Archaeology](https://www.fu-berlin.de/en/studium/studienangebot/master/angewandte-landschafts-und-feldarchaeologie/index.html) (Berlin, Germany - Europe): A master's program that teaches modern methods and concepts of both landscape and field archaeology, with a focus on the dynamic development of natural and cultural landscapes.
@@ -457,7 +457,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 - [University of Cambridge - MPhil in Archaeology (Landscape Archaeology)](https://www.arch.cam.ac.uk/graduate/graduate-study/landscape) (Cambridge, UK - Europe): Provides training in landscape archaeology, emphasizing the integration of archaeological and environmental data.
 - [University of Sheffield - MA in Landscape Archaeology](https://www.sheffield.ac.uk/archaeology/postgraduate/masters/landscape-archaeology) (Sheffield, UK - Europe): Focuses on the study of past landscapes and their development over time, combining theoretical and practical approaches.
 
-### Research Companies and Institutes
+#### Research Companies and Institutes
 
 - **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](https://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Dedicated to developing new techniques and methodological concepts for landscape archaeology and the digital preservation of cultural heritage.
 - **[Landscape Archaeology Research Group (GIAP) - Catalan Institute of Classical Archaeology](https://giap.icac.cat/)** (Tarragona, Spain - Europe): Focuses on unraveling the past through the study of human footprints on the landscape, employing various interdisciplinary methods.
@@ -465,29 +465,29 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 - **[Austrian Archaeological Institute](https://www.oeaw.ac.at/en/oeai/home/)** (Vienna, Austria - Europe): Austria's largest research institution in archaeology and classical studies, studying human history from the Quaternary period to modern times, including landscape archaeology.
 - **[University of Cambridge - Department of Archaeology](https://www.arch.cam.ac.uk/research/projects/landscape-archaeology)** (Cambridge, UK - Europe): Conducts multi-period projects integrating analysis of human and physical landscapes using remote sensing, survey, excavation, and environmental reconstruction.
 
-### Key Books/Articles
+#### Key Books/Articles
 
 - **"Interpreting Archaeology: Finding Meaning in the Past"** edited by Ian Hodder: Discusses various approaches to understanding archaeological landscapes and their significance.
 - **"The Archaeology of Landscapes: Themes and Directions"** edited by Nicholas David and Jonathan Thomas: Explores different themes and methodologies in landscape archaeology.
 - **"Landscape Archaeology: Reading and Interpreting the American Historical Landscape"** by Rebecca Yamin and Karen Bescherer Metheny: Provides insights into interpreting historical landscapes through archaeological methods.
 
-### Journals/Journal Series
+#### Journals/Journal Series
 
 - **[Journal of Landscape Archaeology](https://www.tandfonline.com/toc/rlah20/current)**: A peer-reviewed journal focusing on the study of past landscapes and human interactions with them.
 - **[Landscapes](https://www.tandfonline.com/toc/rlsp20/current)**: Publishes interdisciplinary research on landscape studies, including archaeological perspectives.
 - **[Antiquity](https://www.cambridge.org/core/journals/antiquity)**: An international journal of archaeology that frequently includes articles on landscape archaeology.
 
-### Relevant Podcasts/Videos/Newsletters/Blogs
+#### Relevant Podcasts/Videos/Newsletters/Blogs
 
 - **[Blog: "Landscapes and Layers"](https://landscapesandlayers.wordpress.com/)**: Features articles and discussions on the latest research and developments in landscape archaeology.
 
-### Conferences
+#### Conferences
 
 - **[International Conference on Landscape Archaeology (ICLA)](https://www.iala-lac.org/conferences/)** (International): A biennial conference organized by the International Association of Landscape Archaeology, bringing together researchers to discuss the latest findings and methodologies.
 - **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Includes sessions dedicated to landscape archaeology, providing a platform for presenting research and networking.
 - **[Computer Applications and Quantitative Methods in Archaeology (CAA) Annual Conference](https://www.caaconference.org/)** (International): Focuses on digital approaches in archaeology, including landscape analysis and GIS applications.
 
-### Societies/Online Groups/Forums
+#### Societies/Online Groups/Forums
 
 - **[International Association of Landscape Archaeology (IALA)](https://iala-lac.org/)** (International): Promotes interdisciplinary research and provides a platform for collaboration among landscape archaeologists.
 - **[Landscape Archaeology and Architecture (LAA) - Berliner Antike-Kolleg](https://www.berliner-antike-kolleg.org/en/landscape)**: Supports research and dialogue in the field of landscape archaeology, emphasizing the relationship between architecture and landscape.
