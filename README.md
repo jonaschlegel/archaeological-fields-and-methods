@@ -399,46 +399,47 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Courses/Study Programs
 
-- [University College London (UCL) - MA in Public Archaeology](https://www.ucl.ac.uk/archaeology/study/graduate-taught/ma-public-archaeology) (London, UK - Europe): While focused on public archaeology, this course includes components on contemporary graffiti and public engagement with archaeology.
-- [University of Vienna - MA in Historical Archaeology](https://www.univie.ac.at/historicalarchaeology/) (Vienna, Austria - Europe): Includes modules on graffiti from historical and archaeological perspectives.
-- [University of York - MA in Historical Archaeology](https://www.york.ac.uk/archaeology/postgraduate-study/taught-postgrads/ma-historical-archaeology/) (York, UK - Europe): Covers the study of historic graffiti as part of the material culture of the early modern period.
-- [University of Leicester - MA in Archaeology and Heritage](https://le.ac.uk/courses/archaeology-and-heritage-ma) (Leicester, UK - Europe): Provides opportunities to study heritage preservation, including graffiti preservation and interpretation in archaeological contexts.
+- **[The Archaeology of Graffiti](https://www.course-bookings.lifelong.ed.ac.uk/courses/AC/archaeology/AC100/the-archaeology-of-graffiti/)** (University of Edinburgh, UK): This course offers an interactive overview of public and private markings from prehistory to the present day, including a guided walk around Edinburgh to explore historic and contemporary graffiti. 
+
+- **[Exploring Graffiti: Combining Landscape Archaeology and Data Science](https://anthropology.washington.edu/courses/2024/autumn/archy/235/ab)** (University of Washington, USA): This course examines Seattle's graffiti through the lenses of archaeology and data science, teaching students to collect, analyze, and interpret graffiti data. 
+
+- **[MA Contemporary Art and Archaeology](https://www.uhi.ac.uk/en/courses/ma-contemporary-art-and-archaeology/)** (University of the Highlands and Islands, UK): This master's program uniquely links contemporary art practice with archaeological study, encouraging interdisciplinary approaches to creative practice and research. 
 
 #### Research Companies and Institutes
 
-- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Involved in the documentation and interpretation of modern graffiti on heritage sites through digital prospection.
+- **[project INDIGO](http://projectindigo.eu/)** (Vienna, Austria - Europe): Involved in the documentation and interpretation of contemporary graffiti at the Donaukanal in Vienna, Austria.
+
 - **[Graffiti Research Lab](http://graffitiresearchlab.com/)** (International): Focuses on the study and preservation of contemporary and historical graffiti using digital tools.
-- **[Archaeology and Graffiti Project - University of Bristol](https://www.bristol.ac.uk/archaeology/)** (Bristol, UK - Europe): A research project that studies graffiti across archaeological sites, focusing on social and cultural contexts.
 
 #### Key Books/Articles
 
-- **Ancient Graffiti in Context** edited by Jennifer A. Baird and Claire Taylor: Examines the role of graffiti in the ancient world, focusing on how inscriptions were used to communicate.
-- **Graffiti and the Literary Landscape in Roman Pompeii** by Kristina Milnor: A study of how graffiti served as both a social and artistic form of expression in ancient Pompeii.
-- **Reading Ancient Graffiti: Images and Texts on Roman Walls** by Rebecca Benefiel: Focuses on the integration of text and imagery in ancient graffiti and their social significance.
+- **[Wild Signs: Graffiti in Archaeology and History](https://www.barpublishing.com/wild-signs-graffiti-in-archaeology-and-history.html)** edited by Jeff Oliver and Tim Neal: This volume explores the role of graffiti in various historical and archaeological contexts, offering insights into its significance across different cultures and time periods. 
+
+- **[Graffiti Archaeology](https://link.springer.com/referenceworkentry/10.1007/978-1-4419-0465-2_551)** by Jordan Ralph: This reference work entry discusses the importance of graffiti as material evidence in archaeology, tracing its tradition from ancient Greece and Rome to contemporary societies. 
 
 #### Journals/Journal Series
 
 - **[Journal of Social Archaeology](https://journals.sagepub.com/home/jsa)**: Publishes articles that explore the intersection of archaeology, graffiti, and social expressions in both ancient and modern contexts.
+
 - **[International Journal of Historical Archaeology](https://www.springer.com/journal/10761)**: Features research on the role of graffiti in historical archaeology.
+
 - **[Journal of Archaeological Method and Theory](https://www.springer.com/journal/10816)**: Regularly includes research on graffiti as part of archaeological interpretation and material culture studies.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: Graffiti Archaeology on the Archaeology Podcast Network](https://www.archaeologypodcastnetwork.com/)**: Discussions about the study of ancient and modern graffiti from an archaeological perspective.
-- **[YouTube: Graffiti Archaeology in Practice](https://www.youtube.com/)**: Videos documenting graffiti recording and interpretation methods in various archaeological contexts.
-- **[Blog: Graffiti Archaeology Blog](https://www.graffitiresearchlab.com/blog/)**: Features updates on research projects, techniques, and graffiti preservation efforts.
+- **[Writing on the Wall](https://archive.archaeology.org/0707/etc/graffiti.html)**: An article from Archaeology Magazine discussing the Graffiti Archaeology Project and its approach to documenting the evolution of graffiti over time. 
+
+- **[Graffiti Archaeologists!](https://dougsarchaeology.wordpress.com/2015/10/28/graffiti-archaeologists/)**: A blog post by Doug's Archaeology featuring videos from a conference session on graffiti archaeology, discussing contemporary and historical graffiti studies. 
+
+- **[Graffiti Archaeology](https://www.youtube.com/watch?v=Ntuu0Vk7zDk)**: A video exploring the Graffiti Archaeology Project, which documents the evolution of graffiti art over time through photographs.
 
 #### Conferences
 
-- **[Graffiti Archaeology Workshop - European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): A yearly session focused on the study of ancient and modern graffiti within archaeological frameworks.
-- **[Society for Historical Archaeology (SHA) Annual Meeting](https://sha.org/conferences/)** (USA & International): Regularly includes sessions on the archaeology of graffiti, particularly in historical urban landscapes.
-- **[International Conference on the Archaeology of Urban Graffiti](https://www.archaeologyconf.org/)** (International): A biennial conference dedicated to graffiti in urban archaeological settings.
+- **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/EAA2025)**: The EAA often includes sessions on graffiti archaeology, providing a platform for scholars to discuss recent research and developments in the field.
 
 #### Societies/Online Groups/Forums
 
-- **[Graffiti Archaeology Research Group](https://www.graffitiresearchlab.com/)** (International): An online group dedicated to the study and preservation of graffiti in archaeological contexts.
-- **[Facebook: Ancient Graffiti Forum](https://www.facebook.com/groups/ancientgraffiti/)**: A community for archaeologists and historians to share research on ancient graffiti.
-- **[Reddit: r/GraffitiArchaeology](https://www.reddit.com/r/graffitiarchaeology/)**: A forum for discussing graffiti research in archaeology, including documentation techniques and new discoveries.
+- **[Society for Historical Archaeology (SHA) Graffiti Interest Group](https://sha.org/)**: A group within the SHA dedicated to the study and preservation of historical graffiti, facilitating discussions and collaborations among researchers.
 
 </details>
 
