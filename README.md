@@ -603,6 +603,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 </details>
 
 ### Public Archaeology
+
 <details>
 <summary><strong>Definition:</strong> Public Archaeology is the practice of engaging the public in archaeological research, interpretation, and preservation. It focuses on making archaeology accessible and relevant to communities through education, outreach, heritage management, and collaboration with local populations.</summary>
 
@@ -610,52 +611,48 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Courses/Study Programs
 
-- [University College London (UCL) - MA in Public Archaeology](https://www.ucl.ac.uk/archaeology/study/graduate-taught/ma-public-archaeology) (London, UK - Europe): Offers training in engaging the public with archaeology, focusing on outreach, education, and heritage management.
-- [Newcastle University - MA in Museum, Gallery and Heritage Studies](https://www.ncl.ac.uk/postgraduate/degrees/heritage-museum-gallery-studies-ma/) (Newcastle, UK - Europe): A course that includes public archaeology, museum studies, and heritage management.
-- [University of Leicester - MA in Archaeology and Heritage](https://le.ac.uk/courses/archaeology-and-heritage-ma) (Leicester, UK - Europe): Provides a strong focus on heritage management, public engagement, and the communication of archaeology.
-- [Boston University - MA in Public Archaeology](https://www.bu.edu/archaeology/academics/graduate-programs/ma-in-public-archaeology/) (Massachusetts, USA - North America): Specializes in engaging the public with archaeological research and heritage conservation.
-- [Flinders University - MA in Public Archaeology](https://www.flinders.edu.au/study/courses/postgraduate-coursework/archaeology-public) (Adelaide, Australia - Oceania): A program emphasizing heritage management, community involvement, and public engagement in archaeology.
+- [University of Florida – Graduate Certificates in Public Archaeology](https://anthro.ufl.edu/graduate-certificates/): Offers a certificate program that covers various aspects of public archaeology, including heritage management, outreach, and education.
 
 #### Research Companies and Institutes
 
-- **[Historic England](https://historicengland.org.uk/)** (England, UK - Europe): A government organization involved in preserving historic sites and engaging the public in archaeological heritage.
-- **[Society for American Archaeology (SAA) - Public Archaeology Interest Group](https://www.saa.org/)** (USA & International): Focuses on promoting public engagement in archaeology and heritage.
-- **[Archaeology Scotland](https://archaeologyscotland.org.uk/)** (Scotland, UK - Europe): Works to engage local communities with archaeology through outreach and education projects.
+- **[Society for American Archaeology (SAA) - Public Archaeology Interest Group](https://www.saa.org/education-outreach/public-outreach/centers-public-archaeology)** (USA & International): Focuses on promoting public engagement in archaeology and heritage.
+- **[Florida Public Archaeology Network (FPAN)](https://www.fpan.us/)**: Aims to promote and facilitate the conservation, study, and public understanding of Florida's archaeological heritage through regional centers throughout the state.
+- **[Public Archaeology Facility at Binghamton University](https://www.binghamton.edu/programs/public-archaeology-facility/index.html)**: Provides cultural heritage management services and engages in public outreach and education.
+- **[Public Archaeology Corps](https://publicarchaeologycorps.org/)**: Works with property owners to gain access to archaeological sites before redevelopment, focusing on community involvement and education.
+- **[The Public Archaeology Laboratory, Inc. (PAL)](https://www.palinc.com/)**: A leading New England cultural resource management firm offering services in archaeology, architectural history, and historic preservation planning.
 
 #### Key Books/Articles
 
-- **Public Archaeology** by Nick Merriman: A comprehensive introduction to the field, exploring how archaeology can be communicated to the public and the role of heritage in society.
-- **Archaeology and the Public Purpose** by Gabriel Moshenska: Examines the relationship between archaeologists and the public, focusing on outreach, education, and the ethics of public engagement.
-- **Digging for the Public: Archaeological Practice in a Public Context** edited by Carol McDavid and David W. Babson: A collection of essays on public archaeology projects, focusing on community engagement and collaborative research.
+- **[Public Archaeology](https://www.routledge.com/Public-Archaeology/Merriman/p/book/9780415354894)** by Nick Merriman: A comprehensive introduction to the field, exploring how archaeology can be communicated to the public and the role of heritage in society.
+- **[Archaeology and the Public Purpose](https://www.bloomsbury.com/us/archaeology-and-the-public-purpose-9781472588876/)** by Gabriel Moshenska: Examines the relationship between archaeologists and the public, focusing on outreach, education, and the ethics of public engagement.
+- **[Digging for the Public: Archaeological Practice in a Public Context](https://www.springer.com/gp/book/9781461461746)** edited by Carol McDavid and David W. Babson: A collection of essays on public archaeology projects, focusing on community engagement and collaborative research.
 
 #### Journals/Journal Series
 
 - **[Public Archaeology](https://www.tandfonline.com/toc/ypua20/current)**: A journal dedicated to public archaeology, focusing on community archaeology, outreach, and the communication of heritage.
 - **[Journal of Community Archaeology & Heritage](https://www.tandfonline.com/toc/yjch20/current)**: Covers community and public archaeology, focusing on participatory approaches and heritage conservation.
 - **[International Journal of Heritage Studies](https://www.tandfonline.com/toc/rjhs20/current)**: Frequently publishes research on heritage management, public engagement, and archaeological outreach.
+- **[ARCHEOSTORIE® Journal of Public Archaeology](https://archeostoriejpa.eu/)**: A digital, open-access journal focusing on projects that involve the public and explore innovative communication of archaeology.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
 - **[Podcast: The Public Archaeology Podcast](https://www.archaeologypodcastnetwork.com/)**: Discusses topics related to public archaeology, heritage management, and community involvement in archaeological projects.
-- **[YouTube: Public Archaeology in Practice](https://www.youtube.com/)**: A video series featuring public archaeology projects, fieldwork, and educational outreach.
-- **[Blog: The Public Archaeology Blog](https://www.publicarchaeology.org/)**: Features articles and updates on public archaeology projects, community initiatives, and heritage conservation.
 
 #### Conferences
 
 - **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Includes sessions on public archaeology, heritage outreach, and the role of archaeology in contemporary society.
-- **[Society for American Archaeology (SAA) Annual Meeting](https://www.saa.org/annual-meeting)** (USA & International): Regularly features discussions on public engagement, heritage management, and community archaeology.
-- **[World Archaeological Congress (WAC)](https://worldarch.org/) (International)**: Focuses on global approaches to archaeology, with sessions on public archaeology, social justice, and community involvement.
+- **[World Archaeological Congress (WAC)](https://worldarch.org/)** (International): Focuses on global approaches to archaeology, with sessions on public archaeology, social justice, and community involvement.
+- **[First Conference on Public Archaeology](https://www.fpan.us/projects/conference-on-public-archaeology/)**: Hosted by the Florida Public Archaeology Network, this conference provides a dedicated space for public-minded archaeologists and cultural heritage practitioners to share their experiences and expertise.
 
 #### Societies/Online Groups/Forums
 
 - **[Society for American Archaeology (SAA) - Public Archaeology Interest Group](https://www.saa.org/)** (USA & International): A group dedicated to promoting public involvement in archaeology.
-- **[European Association of Archaeologists (EAA) - Public Archaeology Working Group](https://www.e-a-a.org/)** (International): A group focused on sharing best practices in public archaeology across Europe.
-- **[Facebook: Public Archaeology Network](https://www.facebook.com/groups/publicarchaeology/)**: An online community where professionals and enthusiasts share experiences and best practices in public archaeology.
-- **[Reddit: r/PublicArchaeology](https://www.reddit.com/r/PublicArchaeology/)**: A forum for discussing public archaeology, heritage management, and outreach projects.
+- **[Public Archaeology Facebook Group](https://www.facebook.com/groups/100255070063028/)**: An online community for discussions, resources, and networking related to public archaeology.
 
 </details>
 
 ### Zooarchaeology
+
 <details>
 <summary><strong>Definition:</strong> Zooarchaeology is the study of animal remains (bones, shells, and other remnants) in archaeological contexts, helping to interpret past human-animal relationships, subsistence strategies, and environmental changes.</summary>
 
@@ -665,9 +662,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - [University of Exeter - MSc in Zooarchaeology](https://www.exeter.ac.uk/study/postgraduate/courses/archaeology/zooarchaeology/) (Exeter, UK - Europe): Offers a comprehensive course focusing on the study of animal remains in archaeology.
 - [University of York - MSc in Zooarchaeology](https://www.york.ac.uk/study/postgraduate-taught/courses/msc-zooarchaeology/) (York, UK - Europe): A well-established program dedicated to zooarchaeology and animal osteology.
-- [University of Sheffield - MSc in Zooarchaeology](https://www.sheffield.ac.uk/archaeology/postgraduate/masters/zooarchaeology) (Sheffield, UK - Europe): Provides specialized training in the analysis of animal remains from archaeological sites.
-- [University of Calgary - MA/MSc in Zooarchaeology](https://www.ucalgary.ca/future-students/graduate/explore-programs/zooarchaeology-ma-msc) (Calgary, Canada - North America): Offers graduate-level courses focusing on the study of animal bones in archaeological contexts.
-- [Durham University - MSc in Zooarchaeology](https://www.dur.ac.uk/archaeology/postgraduate/taughtdegrees/zooarch/) (Durham, UK - Europe): A master's program focused on animal bones, environmental archaeology, and taphonomy.
 
 #### Research Companies and Institutes
 
@@ -690,7 +684,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
 - **[Podcast: Archaeology Podcast Network - Zooarchaeology Episodes](https://www.archaeologypodcastnetwork.com/)**: Features interviews and discussions on zooarchaeology topics.
-- **[YouTube: Zooarchaeology in Action](https://www.youtube.com/)**: A video series demonstrating zooarchaeological fieldwork and lab analysis.
 - **[Blog: TrowelBlazers](http://trowelblazers.com/)**: Highlights female zooarchaeologists and their contributions to the field.
 
 #### Conferences
