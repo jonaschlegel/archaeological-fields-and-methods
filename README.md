@@ -683,6 +683,59 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 Detailed breakdowns of key archaeological methods, including definitions, study resources, software, and media to explore.
 
+### Ground-Penetrating Radar (GPR) in Archaeology
+
+<details>
+<summary><strong>Definition:</strong> Ground-Penetrating Radar (GPR) is a non-invasive geophysical method that uses radar pulses to image the subsurface. In archaeology, GPR helps detect and map buried structures, artifacts, and features without excavation.</summary>
+
+**Applications:**
+
+- Locating and mapping buried structures such as foundations, walls, and roads
+- Identifying graves, burial sites, and other subsurface features
+- Assessing stratigraphy and soil composition to understand site formation processes
+- Monitoring and preserving archaeological sites by detecting changes over time
+
+**Advantages and Limitations:**
+
+*Advantages:*
+
+- Non-destructive method
+- Provides high-resolution subsurface images
+- Rapid data acquisition over large areas
+
+*Limitations:*
+
+- Depth penetration affected by soil composition and moisture
+- Complex data interpretation requiring expertise
+- Equipment and operational costs may be high
+
+**Key Literature:**
+
+- **"Ground-Penetrating Radar for Archaeology"** by Lawrence B. Conyers (2013)
+- **"Seeing Beneath the Soil: Prospecting Methods in Archaeology"** by Oliver Anthony Clark (1997)
+- **"Remote Sensing in Archaeology"** edited by James Wiseman and Farouk El-Baz (2007)
+
+**Training and Courses:**
+
+- **[Current Archeological Prospection 2024: Advances for the 21st Century](https://www.nps.gov/articles/000/current-archeological-prospection-2024-advances-for-the-21st-century.htm)**: A five-day workshop focusing on non-destructive archaeological prospection methods, including GPR
+- **[Workshop: The City Below the City—Archaeological and Geophysical Data to Meet a Major Heritage Management Challenge](https://www.prospect.ugent.be/workshop-city-below-the-city/)**: A workshop addressing archaeological prospection in urban environments
+
+**Technological Tools:**
+
+- **[Reflexw](https://www.sandmeier-geo.de/reflexw.html)**: Software for processing and interpreting GPR and seismic data
+- **[GPR for Archaeology](https://www.gpr-archaeology.com/)**: Resources and tools for collecting, processing, and interpreting GPR data in archaeological contexts
+
+**Online Resources:**
+
+- **[PROSPECT](https://www.prospect.ugent.be/)**: An international academic network for research, education, and outreach in archaeological prospection
+- **[Archaeological Prospection Community](https://www.e-a-a.org/EAA/Communities/Archaeological_Prospection/EAA/Navigation_Communities/Archaeological_Prospection.aspx)**: A community within the European Association of Archaeologists focused on non-intrusive archaeological investigation methods
+
+**Regulatory Guidelines:**
+
+- Users must ensure compliance with local regulations concerning electromagnetic emissions and obtain necessary permits when conducting GPR surveys
+
+</details>
+
 ---
 
 ## Contributing
