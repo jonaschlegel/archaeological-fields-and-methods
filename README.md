@@ -43,7 +43,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Research Companies and Institutes
 
-- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): A leader in developing and applying non-invasive methods, including aerial and geophysical prospection technologies, in archaeology.
+- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): A former leader in developing and applying non-invasive methods, including aerial and geophysical prospection technologies, in archaeology. The insitute was discontinued in March 2024.
 - **[Historic England - Airborne and Remote Sensing](https://historicengland.org.uk/research/methods/airborne-remote-sensing/)** (UK): Specializes in aerial photography, LiDAR, and other remote sensing technologies for heritage research and conservation.
 - **[Aerial Archaeology Research Group (AARG)](https://aargonline.com/wp/)** (International): A global group dedicated to the study and promotion of aerial archaeology and the interpretation of aerial imagery.
 
@@ -248,7 +248,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Research Companies and Institutes
 
-- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Specializes in digital archaeological prospection and virtual reconstruction techniques.
+- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](http://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Specializes in digital archaeological prospection and virtual reconstruction techniques. The insitute was discontinued in March 2024.
 - **[Centre for Digital Heritage](https://www.york.ac.uk/digital-heritage/)** (York, UK - Europe): Focuses on the use of digital methods to document and analyze archaeological sites and cultural heritage.
 - **[CyArk](https://www.cyark.org/)** (International): A non-profit organization that digitally preserves archaeological and cultural heritage sites using 3D modelling and laser scanning.
 
@@ -460,7 +460,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Research Companies and Institutes
 
-- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](https://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Dedicated to developing new techniques and methodological concepts for landscape archaeology and the digital preservation of cultural heritage.
+- **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](https://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Former dedicated to developing new techniques and methodological concepts for landscape archaeology and the digital preservation of cultural heritage. The insitute was discontinued in March 2024.
 - **[Landscape Archaeology Research Group (GIAP) - Catalan Institute of Classical Archaeology](https://giap.icac.cat/)** (Tarragona, Spain - Europe): Focuses on unraveling the past through the study of human footprints on the landscape, employing various interdisciplinary methods.
 - **[International Association of Landscape Archaeology (IALA)](https://iala-lac.org/)** (International): Aims to promote interdisciplinary research in landscape archaeology, providing a platform for archaeologists and researchers from related disciplines.
 - **[Austrian Archaeological Institute](https://www.oeaw.ac.at/en/oeai/home/)** (Vienna, Austria - Europe): Austria's largest research institution in archaeology and classical studies, studying human history from the Quaternary period to modern times, including landscape archaeology.
