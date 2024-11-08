@@ -120,8 +120,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Societies/Online Groups/Forums
 
-- **[Graphics Archaeology Group (GAG) - Chartered Institute for Archaeologists (CIfA)](https://www.gag-cifa.org/)** (UK): A group dedicated to promoting standards and best practices in archaeological illustration and graphics.
-- **[Archaeological Illustration Enthusiasts - Facebook Group](https://www.facebook.com/groups/archaeologicalillustration/)**: An online community for sharing knowledge, techniques, and discussions related to archaeological illustration.
+- 
 
 </details>
 
@@ -180,7 +179,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Societies/Online Groups/Forums
 
 - **[British Association for Biological Anthropology and Osteoarchaeology (BABAO)](https://www.babao.org.uk/)** (UK): The primary organisation for bioarchaeologists in the UK.
-- **[American Association of Biological Anthropologists (AAPA)]([https://physanth.org/](https://bioanth.org/))** (USA): A global organisation promoting biological and bioarchaeological research.
+- **[American Association of Biological Anthropologists (AAPA)](https://bioanth.org/)** (USA): A global organisation promoting biological and bioarchaeological research.
 - **[Facebook: Bioarchaeology Network](https://www.facebook.com/groups/bioarchaeology/)**: A group for students and researchers to share news, findings, and discuss bioarchaeology.
 - **[Reddit: r/Bioarchaeology](https://www.reddit.com/r/bioarchaeology/)**: A community discussing bioarchaeological research and topics.
 </details>
@@ -228,7 +227,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Conferences
 
-- **[Classical Association Annual Conference](https://classicalassociation.org/conference.html)** (UK & International): A yearly conference focusing on classical studies, including classical archaeology.
 - **[Archaeological Institute of America (AIA) Annual Meeting](https://www.archaeological.org/programs/professionals/annual-meeting/)** (USA & International): Includes sessions on classical archaeology and the latest discoveries from the ancient Mediterranean.
 - **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Features sessions on Mediterranean archaeology, including classical Greek and Roman studies.
 
@@ -266,13 +264,14 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[Journal of Computer Applications in Archaeology](https://journal.caa-international.org/)**: A peer-reviewed journal dedicated to publishing research on computer applications in archaeology.
 - **[Digital Applications in Archaeology and Cultural Heritage](https://www.journals.elsevier.com/digital-applications-in-archaeology-and-cultural-heritage)**: Covers topics related to digital technologies and their use in the cultural heritage sector.
-- **[Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763)**: Focuses on the application of digital prospection technologies in archaeology, including remote sensing, 3D scanning, and GIS.
+- **[Journal of Archaeological Prospection](https://onlinelibrary.wiley.com/journal/10990763)**: Focuses on the application of digital prospection technologies in archaeology, including remote sensing, 3D scanning, and GIS.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: Archaeology Podcast Network - Digital Archaeology Series](https://www.archaeologypodcastnetwork.com/)**: A series of discussions about the latest in digital archaeology.
+- **[Podcast: Digital History & Digital Archaeology with Shawn Graham](https://open.spotify.com/show/5SqRibg3ZzOQIjwy3h4KLv)**: A series of background information on Shawn Grahams course work.
+- **[ArchaeoTech Podcast: Ep 165 - Why Digital Archaeology? A Case Study](https://podcasts.apple.com/mk/podcast/why-digital-archaeology-a-case-study-ep-165/id946807608?i=1000538552378)**: An episode on digital technologies to augment traditional field archaeology.
 - **[YouTube: CyArk](https://www.youtube.com/user/CyArk)**: Features videos showcasing digital preservation projects and 3D reconstructions of heritage sites.
-- **[CAA International Blog](https://journal.caa-international.org/)**: Provides articles and updates on computer applications in archaeology.
+- **[Introspective Digital Archaeology Blog]([https://journal.caa-international.org/](https://introspectivedigitalarchaeology.com/))**: Provides articles on understanding the computational turn in archaeology.
 
 #### Conferences
 
@@ -305,14 +304,13 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Research Companies and Institutes
 
-- **[Oxford Archaeology - Environmental Archaeology Team](https://oxfordarchaeology.com/)** (Oxford, UK - Europe): Specializes in environmental sampling and analysis as part of archaeological projects.
 - **[The York Environmental Archaeology Unit](https://archaeologydataservice.ac.uk/archives/view/EAU/)** (York, UK - Europe): A leading research institute dedicated to the study of environmental archaeology.
 
 #### Key Books/Articles
 
-- **Environmental Archaeology: Principles and Practice** by Dena F. Dincauze: A foundational text that covers the principles and methods of environmental archaeology.
-- **Environmental Archaeology and Human History** by John G. Evans: Examines how environmental data can inform our understanding of past human societies and their landscapes.
-- **The Archaeology of Human-Environment Interactions** by Daniel Contreras: Discusses the relationship between humans and the environment, with case studies from across the world.
+- **Environmental Archaeology: Principles and Practice** by Dena F. Dincauze (2000): A foundational text that covers the principles and methods of environmental archaeology.
+- **Land and Archaeology: Histories of Human Environment in the British Isles** by John G. Evans (1999): Examines how environmental data can inform our understanding of past human societies and their landscapes in the British Isles.
+- **[The Archaeology of Human-Environment Interactions: Strategies for Investigating Anthropogenic Landscapes, Dynamic Environments, and Climate Change in the Human Past](https://www.routledge.com/The-Archaeology-of-Human-Environment-Interactions-Strategies-for-Investigating-Anthropogenic-Landscapes-Dynamic-Environments-and-Climate-Cha/Contreras/p/book/9780367872687)** by Daniel Contreras (2017): Discusses the relationship between humans and the environment, with case studies from across the world.
 
 #### Journals/Journal Series
 
@@ -347,22 +345,21 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Courses/Study Programs
 
-- [University of Exeter - MA in Experimental Archaeology](https://www.exeter.ac.uk/study/postgraduate/courses/archaeology/ma-experimental-archaeology/) (Exeter, UK - Europe): Offers a comprehensive program focusing on recreating ancient tools and technologies.
-- [University of Leiden - MSc in Archaeology (Heritage and Society: Experimental Archaeology Specialization)](https://www.universiteitleiden.nl/en/education/study-programmes/master/archaeology/heritage-society) (Leiden, Netherlands - Europe): Focuses on the reconstruction of ancient practices and their interpretation through experimental archaeology.
-- [University College Dublin - MSc in Experimental Archaeology and Material Culture](https://www.ucd.ie/archaeology/study/graduateprogrammes/msc-experimentalarchaeology/) (Dublin, Ireland - Europe): A master’s program that emphasizes recreating ancient material culture through experimentation.
-- [Archaeological Field School - Experimental Archaeology Program](https://www.archaeologicalfieldschool.com/) (USA & International): Offers hands-on learning opportunities in experimental archaeology, including tool-making and ancient technology workshops.
+- [University of York - MA Material Culture and Experimental Archaeology](https://www.york.ac.uk/study/postgraduate-taught/courses/ma-material-culture-experimental-archaeology/) (York, UK - Europe): Offers a comprehensive program focusing on recreating ancient tools and technologies.
+- [University of Exeter - MSc Experimental Archaeology](https://www.exeter.ac.uk/study/postgraduate/courses/archaeology/experimentma/) (Exeter, UK - Europe): Offers a comprehensive program focusing on recreating ancient tools and technologies.
+- [University College Dublin - MSc in Experimental Archaeology & Material Culture](https://hub.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=COURSE&MAJR=W349) (Dublin, Ireland): The MSc in Experimental Archaeology and Material Culture will provide a comprehensive course of university learning and experience in experimental archaeology and material culture analysis. 
+
 
 #### Research Companies and Institutes
 
 - **[EXARC](https://exarc.net/)** (International): A global organization promoting experimental archaeology and open-air museums.
-- **[Lejre Historical-Archaeological Experimental Centre](https://sagnlandet.dk/en/)** (Lejre, Denmark - Europe): Specializes in recreating ancient technologies and offers experimental archaeology research opportunities.
-- **[Butser Ancient Farm](https://www.butserancientfarm.co.uk/)** (Hampshire, UK - Europe): Conducts experiments in reconstructing Iron Age and Roman-era buildings and technologies.
+- **[Butser Ancient Farm](https://www.butserancientfarm.co.uk/)** (Hampshire, UK - Europe): Conducts experiments in reconstructing Iron Age and Roman-era buildings and technologies with an open museum.
+- **[UCD Schhool of Archaeology - UCD Centre for Experimental Archaeology and Material Culture](https://www.ucd.ie/archaeology/ceamc/)** (Dublin, Ireland): This centre is one of the only specifically designed and dedicated, on-campus university facilities in the world for experimental archaeology and material culture studies.
 
 #### Key Books/Articles
 
-- **Experimental Archaeology: Making, Understanding, Story-telling** by Penny Cunningham: Focuses on how experimental archaeology contributes to our understanding of ancient societies through practical recreation.
-- **Reconstructing Ancient Linen Body Armor: Unraveling the Linothorax Mystery** by Gregory S. Aldrete: An experimental approach to recreating ancient Greek body armor.
-- **Handbook of Post-Processual Archaeology** edited by Robert Preucel and Ian Hodder: Includes chapters on experimental archaeology and its role in understanding ancient material culture.
+- **[Experimental Archaeology: Making, Understanding, Story-telling](https://www.archaeopress.com/Archaeopress/DMS/68B05C564BD049E295A753BD734B2338/9781789693195-sample.pdf)** by Penny Cunningham (2008): Focuses on how experimental archaeology contributes to our understanding of ancient societies through practical recreation.
+- **Reconstructing Ancient Linen Body Armor: Unraveling the Linothorax Mystery** by Alicia Aldrete, Scott M. Bartell, Gregory S. Aldrete (2013): An experimental approach to recreating ancient Greek body armor.
 
 #### Journals/Journal Series
 
@@ -459,32 +456,25 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 - [University of Oxford - MSc in Applied Landscape Archaeology](https://www.ox.ac.uk/admissions/graduate/courses/msc-applied-landscape-archaeology) (Oxford, UK - Europe): A part-time program focusing on the theories and methods of landscape archaeology, emphasizing practical fieldwork and research.
 - [Freie Universität Berlin - MA in Applied Landscape and Field Archaeology](https://www.fu-berlin.de/en/studium/studienangebot/master/angewandte-landschafts-und-feldarchaeologie/index.html) (Berlin, Germany - Europe): A master's program that teaches modern methods and concepts of both landscape and field archaeology, with a focus on the dynamic development of natural and cultural landscapes.
 - [Umeå University - Master's Programme in Landscape Archaeology / Environmental Archaeology](https://www.umu.se/en/education/master/masters-programme-in-landscape-archaeology--environmental-archaeology/) (Umeå, Sweden - Europe): Offers specialization in Landscape or Environmental Archaeology, focusing on interpreting ancient landscapes and environments through various methods.
-- [University of Cambridge - MPhil in Archaeology (Landscape Archaeology)](https://www.arch.cam.ac.uk/graduate/graduate-study/landscape) (Cambridge, UK - Europe): Provides training in landscape archaeology, emphasizing the integration of archaeological and environmental data.
-- [University of Sheffield - MA in Landscape Archaeology](https://www.sheffield.ac.uk/archaeology/postgraduate/masters/landscape-archaeology) (Sheffield, UK - Europe): Focuses on the study of past landscapes and their development over time, combining theoretical and practical approaches.
 
 #### Research Companies and Institutes
 
 - **[Ludwig Boltzmann Institute for Archaeological Prospection and Virtual Archaeology](https://archpro.lbg.ac.at/)** (Vienna, Austria - Europe): Former dedicated to developing new techniques and methodological concepts for landscape archaeology and the digital preservation of cultural heritage. The insitute was discontinued in March 2024.
 - **[Landscape Archaeology Research Group (GIAP) - Catalan Institute of Classical Archaeology](https://giap.icac.cat/)** (Tarragona, Spain - Europe): Focuses on unraveling the past through the study of human footprints on the landscape, employing various interdisciplinary methods.
 - **[International Association of Landscape Archaeology (IALA)](https://iala-lac.org/)** (International): Aims to promote interdisciplinary research in landscape archaeology, providing a platform for archaeologists and researchers from related disciplines.
-- **[Austrian Archaeological Institute](https://www.oeaw.ac.at/en/oeai/home/)** (Vienna, Austria - Europe): Austria's largest research institution in archaeology and classical studies, studying human history from the Quaternary period to modern times, including landscape archaeology.
-- **[University of Cambridge - Department of Archaeology](https://www.arch.cam.ac.uk/research/projects/landscape-archaeology)** (Cambridge, UK - Europe): Conducts multi-period projects integrating analysis of human and physical landscapes using remote sensing, survey, excavation, and environmental reconstruction.
 
 #### Key Books/Articles
 
-- **"Interpreting Archaeology: Finding Meaning in the Past"** edited by Ian Hodder: Discusses various approaches to understanding archaeological landscapes and their significance.
-- **"The Archaeology of Landscapes: Themes and Directions"** edited by Nicholas David and Jonathan Thomas: Explores different themes and methodologies in landscape archaeology.
-- **"Landscape Archaeology: Reading and Interpreting the American Historical Landscape"** by Rebecca Yamin and Karen Bescherer Metheny: Provides insights into interpreting historical landscapes through archaeological methods.
+- **Landscape – Place – People: the values of spatial terminology in heritage and beyond: Discovery, Innovation and Science in the Historic Environment** by Jonathan Last (2020): The document offers a discussion of relevant terms used to describe and explain selected spatial concepts and phenomena relevant to the historic environment.
+- **Landscape Archaeology: Reading and Interpreting the American Historical Landscape** by Rebecca Yamin and Karen Bescherer Metheny (1996): Provides insights into interpreting historical landscapes through archaeological methods.
 
 #### Journals/Journal Series
 
-- **[Journal of Landscape Archaeology](https://www.tandfonline.com/toc/rlah20/current)**: A peer-reviewed journal focusing on the study of past landscapes and human interactions with them.
-- **[Landscapes](https://www.tandfonline.com/toc/rlsp20/current)**: Publishes interdisciplinary research on landscape studies, including archaeological perspectives.
 - **[Antiquity](https://www.cambridge.org/core/journals/antiquity)**: An international journal of archaeology that frequently includes articles on landscape archaeology.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Blog: "Landscapes and Layers"](https://landscapesandlayers.wordpress.com/)**: Features articles and discussions on the latest research and developments in landscape archaeology.
+- 
 
 #### Conferences
 
@@ -495,7 +485,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Societies/Online Groups/Forums
 
 - **[International Association of Landscape Archaeology (IALA)](https://iala-lac.org/)** (International): Promotes interdisciplinary research and provides a platform for collaboration among landscape archaeologists.
-- **[Landscape Archaeology and Architecture (LAA) - Berliner Antike-Kolleg](https://www.berliner-antike-kolleg.org/en/landscape)**: Supports research and dialogue in the field of landscape archaeology, emphasizing the relationship between architecture and landscape.
+- **[Landscape Archaeology and Architecture (LAA) - Berliner Antike-Kolleg](https://www.berliner-antike-kolleg.org/bergsas/programme/laa/index.html)**: Supports research and dialogue in the field of landscape archaeology, emphasizing the relationship between architecture and landscape.
 </details>
 
 ### Osteoarchaeology
@@ -518,25 +508,23 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/)** (Jena, Germany - Europe): Leading research in osteoarchaeology and human evolutionary studies.
 - **[BioArCh Research Centre](https://www.york.ac.uk/archaeology/research/research-centres/bioarch/)** (University of York, UK - Europe): Focuses on bioarchaeological research, including osteoarchaeology.
-- **[University of Cambridge - McDonald Institute for Archaeological Research](https://www.arch.cam.ac.uk/)** (Cambridge, UK - Europe): Engages in bioarchaeological and osteoarchaeological research, specializing in human and animal bones.
+- **[University of Cambridge - Department of Archaeology - Biological Anthropology](https://www.arch.cam.ac.uk/about-us/biological-anthropology)** (Cambridge, UK - Europe): Engages in bioarchaeological and osteoarchaeological research, specializing in human and animal bones.
 
 #### Key Books/Articles
 
-- **Human Osteology** by Tim D. White and Pieter A. Folkens: A core text providing comprehensive methods for the study of human skeletal remains.
-- **The Archaeology of Human Bones** by Simon Mays: Offers insights into osteoarchaeological methods, focusing on the interpretation of human skeletal remains.
-- **Osteoarchaeology: A Guide to the Macroscopic Study of Human Skeletal Remains** by Efthymia Nikita: A detailed guide to osteoarchaeological practices and analyses.
+- **Human Osteology** by Tim D. White, Michael T. Black and Pieter A. Folkens (2011): A core text providing comprehensive methods for the study of human skeletal remains.
+- **[The Archaeology of Human Bones](https://www.routledge.com/The-Archaeology-of-Human-Bones/Mays/p/book/9781138045675)** by Simon Mays (2021): Offers insights into osteoarchaeological methods, focusing on the interpretation of human skeletal remains.
+- **[Osteoarchaeology: A Guide to the Macroscopic Study of Human Skeletal Remains](https://www.sciencedirect.com/book/9780128040218/osteoarchaeology)** by Efthymia Nikita (2017): A detailed guide to osteoarchaeological practices and analyses.
 
 #### Journals/Journal Series
 
 - **[International Journal of Osteoarchaeology](https://onlinelibrary.wiley.com/journal/10991212)**: A peer-reviewed journal covering research on human and animal skeletal remains in archaeology.
-- **[Bioarchaeology International](https://bioarchaeologyjournal.org/)**: Publishes osteoarchaeological studies within the broader field of bioarchaeology.
+- **[Bioarchaeology International]([https://bioarchaeologyjournal.org/](https://journals.upress.ufl.edu/bioarchaeology/index))**: Publishes osteoarchaeological studies within the broader field of bioarchaeology.
 - **[Journal of Archaeological Science](https://www.journals.elsevier.com/journal-of-archaeological-science)**: Frequently includes osteoarchaeological research.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: Archaeology Podcast Network - Bones in Context](https://www.archaeologypodcastnetwork.com/)**: A podcast series discussing the significance of bones in archaeological research.
-- **[YouTube: Human Osteology and Archaeology](https://www.youtube.com/)**: A series on osteoarchaeology, covering excavation, analysis, and interpretation of skeletal remains.
-- **[Bioarchaeology Blog](https://www.bioarchaeologynews.com/)**: Features articles and news on the latest in osteoarchaeology and bioarchaeology.
+- **[YouTube: Osteoarchaeology: Human stories from the bones]([https://www.youtube.com/](https://www.youtube.com/watch?v=6mt-_6bOQSU))**: An nterview with Becky Gowland on osteoarchaeology, covering excavation, analysis, and interpretation of skeletal remains.
 
 #### Conferences
 
@@ -548,12 +536,11 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[British Association for Biological Anthropology and Osteoarchaeology (BABAO)](https://www.babao.org.uk/)** (UK): A society promoting osteoarchaeology and bioarchaeology research.
 - **[American Association of Physical Anthropologists (AAPA)](https://physanth.org/)** (USA): Focuses on osteoarchaeology within the larger field of physical anthropology.
-- **[Facebook: Osteoarchaeology Community](https://www.facebook.com/groups/osteoarchaeology/)**: An online group where students and researchers can share and discuss osteoarchaeological findings.
-- **[Reddit: r/Osteology](https://www.reddit.com/r/osteoarchaeology/)**: A community discussing osteoarchaeological research, methods, and discoveries.
 
 </details>
 
 ### Prehistoric Archaeology (Prehistory)
+
 <details>
 <summary><strong>Definition:</strong> Prehistoric Archaeology, or Prehistory, is the study of human societies before the advent of written records. It focuses on material culture such as stone tools, pottery, and art, to understand the lifestyles, technologies, and environments of ancient peoples from the Paleolithic to the Iron Age.</summary>
 
@@ -561,23 +548,16 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Courses/Study Programs
 
-- [University of Cambridge - MPhil in Archaeology (Prehistoric Archaeology)](https://www.arch.cam.ac.uk/graduate/graduate-study/prehistoric-archaeology) (Cambridge, UK - Europe): Focuses on prehistoric archaeology, including the study of early human societies and technologies.
-- [University of Oxford - MSt/MPhil in Archaeology (Prehistory)](https://www.ox.ac.uk/admissions/graduate/courses/mst-archaeology) (Oxford, UK - Europe): A program that covers a wide range of prehistoric topics from the Stone Age to the Iron Age.
-- [Durham University - MA in Prehistoric Archaeology](https://www.dur.ac.uk/archaeology/postgraduate/ma_prehistory/) (Durham, UK - Europe): Offers a comprehensive study of prehistoric human activity, with an emphasis on material culture and environmental contexts.
-- [University College London (UCL) - MA in European Prehistory](https://www.ucl.ac.uk/archaeology/study/graduate-taught/ma-european-prehistory) (London, UK - Europe): Focuses on European prehistory, covering the Paleolithic, Mesolithic, and Neolithic periods.
-- [University of Tübingen - MSc in Prehistoric Archaeology](https://www.uni-tuebingen.de/en/study/find-a-programme/master/master-programs/prehistoric-archaeology.html) (Tübingen, Germany - Europe): A program that includes fieldwork and lab-based approaches to studying prehistoric material culture.
+- [University of Cambridge - Department of Archaeology (Prehistoric Archaeology)](https://www.arch.cam.ac.uk/research/projects/loughcrew/lp-prehistoric) (Cambridge, UK - Europe): Focuses on prehistoric archaeology, including the study of early human societies and technologies.
+- [University of Tübingen - Master "Prehistory"](https://uni-tuebingen.de/en/faculties/faculty-of-humanities/departments/ancient-studies-and-art-history/prehistory-and-medieval-archaeology/studies/master-prehistory/) (Tübingen, Germany - Europe): A program that includes fieldwork and lab-based approaches to studying prehistoric material culture.
 
 #### Research Companies and Institutes
 
-- **[Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/)** (Jena, Germany - Europe): Conducts cutting-edge research on prehistoric societies, focusing on early human migrations and cultural development.
-- **[McDonald Institute for Archaeological Research - University of Cambridge](https://www.arch.cam.ac.uk/)** (Cambridge, UK - Europe): Focuses on prehistoric archaeology, particularly the study of early human societies.
-- **[Archaeological Institute of America (AIA) - Prehistoric Archaeology Research Programs](https://www.archaeological.org/)** (USA & International): Supports fieldwork and research in prehistoric archaeology across various regions of the world.
+- **[Max Planck Institute of Geoanthropology](https://www.shh.mpg.de/)** (Jena, Germany - Europe): Conducts cutting-edge research on prehistoric societies, focusing on early human migrations and cultural development.
 
 #### Key Books/Articles
 
-- **The Oxford Handbook of Prehistoric Archaeology** edited by Chris Gosden, Barry Cunliffe, and Rosemary A. Joyce: A comprehensive overview of key themes, methods, and discoveries in prehistoric archaeology.
-- **Prehistory: The Making of the Human Mind** by Colin Renfrew: Explores the development of early human cognition and culture through material remains.
-- **Prehistoric Archaeology** by Colin Renfrew and Paul Bahn: A widely used textbook that covers methods and theories in prehistoric archaeology.
+- **Prehistory: The Making of the Human Mind** by Colin Renfrew (2007): Explores the development of early human cognition and culture through material remains.
 
 #### Journals/Journal Series
 
@@ -588,20 +568,17 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
 - **[Podcast: Prehistory Guys](https://theprehistoryguys.uk/)**: Covers prehistoric archaeology, focusing on the Stone Age, Megalithic monuments, and the development of early human societies.
-- **[YouTube: Prehistoric Archaeology Explained](https://www.youtube.com/)**: Videos covering prehistoric technologies, fieldwork, and important archaeological sites.
-- **[Blog: Prehistoric Archaeology Blog](https://www.prehistoricarchaeology.com/)**: Features articles on the latest discoveries and trends in prehistoric archaeology.
 
 #### Conferences
 
 - **[Society for American Archaeology (SAA) Annual Meeting](https://www.saa.org/annual-meeting)** (USA & International): Includes sessions on prehistoric archaeology, focusing on early human technologies, societies, and environments.
 - **[European Association of Archaeologists (EAA) Annual Meeting](https://www.e-a-a.org/)** (International): Features presentations on prehistoric archaeology from across Europe, including new discoveries and theoretical approaches.
-- **[UISPP - International Union of Prehistoric and Protohistoric Sciences Congress](http://www.uispp.org/)** (International): A major conference dedicated to prehistoric and protohistoric archaeology, covering global research topics.
+- **[UISPP - International Union of Prehistoric and Protohistoric Sciences Congress](https://uispp.net/)** (International): A major conference dedicated to prehistoric and protohistoric archaeology, covering global research topics.
 
 #### Societies/Online Groups/Forums
 
 - **[Society for American Archaeology (SAA)](https://www.saa.org/)** (USA & International): A global society that promotes research and education in prehistoric archaeology.
 - **[UISPP - International Union of Prehistoric and Protohistoric Sciences](http://www.uispp.org/)** (International): A global organization focusing on the study of prehistoric and protohistoric archaeology.
-- **[Facebook: Prehistoric Archaeology Group](https://www.facebook.com/groups/prehistoricarchaeology/)**: An online community for sharing research, discoveries, and discussions on prehistoric archaeology.
 - **[Reddit: r/Prehistory](https://www.reddit.com/r/prehistory/)**: A forum for discussing prehistoric archaeology, including recent excavations and theoretical approaches.
 
 </details>
@@ -627,20 +604,18 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Key Books/Articles
 
-- **[Public Archaeology](https://www.routledge.com/Public-Archaeology/Merriman/p/book/9780415354894)** by Nick Merriman: A comprehensive introduction to the field, exploring how archaeology can be communicated to the public and the role of heritage in society.
-- **[Archaeology and the Public Purpose](https://www.bloomsbury.com/us/archaeology-and-the-public-purpose-9781472588876/)** by Gabriel Moshenska: Examines the relationship between archaeologists and the public, focusing on outreach, education, and the ethics of public engagement.
-- **[Digging for the Public: Archaeological Practice in a Public Context](https://www.springer.com/gp/book/9781461461746)** edited by Carol McDavid and David W. Babson: A collection of essays on public archaeology projects, focusing on community engagement and collaborative research.
+- **Public Archaeology** by Nick Merriman (1972): A comprehensive introduction to the field, exploring how archaeology can be communicated to the public and the role of heritage in society.
+- **[Key Concepts in Public Archaeology](https://uclpress.co.uk/book/key-concepts-in-public-archaeology/)** edited by Gabriel Moshenska (2017): Examines the relationship between archaeologists and the public, focusing on outreach, education, and the ethics of public engagement.
 
 #### Journals/Journal Series
 
 - **[Public Archaeology](https://www.tandfonline.com/toc/ypua20/current)**: A journal dedicated to public archaeology, focusing on community archaeology, outreach, and the communication of heritage.
-- **[Journal of Community Archaeology & Heritage](https://www.tandfonline.com/toc/yjch20/current)**: Covers community and public archaeology, focusing on participatory approaches and heritage conservation.
 - **[International Journal of Heritage Studies](https://www.tandfonline.com/toc/rjhs20/current)**: Frequently publishes research on heritage management, public engagement, and archaeological outreach.
 - **[ARCHEOSTORIE® Journal of Public Archaeology](https://archeostoriejpa.eu/)**: A digital, open-access journal focusing on projects that involve the public and explore innovative communication of archaeology.
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: The Public Archaeology Podcast](https://www.archaeologypodcastnetwork.com/)**: Discusses topics related to public archaeology, heritage management, and community involvement in archaeological projects.
+- **[Anarchaeologist Podcast: Prof. Holtorf and the Temple of Public Archaeology - Ep. 07](https://www.archaeologie-online.de/podcasts/podcast/prof-holtorf-and-the-temple-of-public-archaeology/)**: Interview with Prof. Cornelius Holtorf about the book "Archaeology as a Brand".
 
 #### Conferences
 
@@ -669,15 +644,14 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Research Companies and Institutes
 
-- **[Max Planck Institute for the Science of Human History](https://www.shh.mpg.de/)** (Jena, Germany - Europe): Focuses on zooarchaeology as part of their archaeological and evolutionary studies.
-- **[Zooarchaeology Lab at the University of York](https://www.york.ac.uk/archaeology/research/research-centres/zooarchaeology-lab/)** (York, UK - Europe): Conducts leading research on animal remains from archaeological sites.
+- **[Max Planck Institute of Geoanthropology](https://www.gea.mpg.de/)** (Jena, Germany - Europe): Focuses on zooarchaeology as part of their archaeological and evolutionary studies.
 - **[Smithsonian Institution - Department of Anthropology](https://naturalhistory.si.edu/research/anthropology)** (Washington, DC, USA - North America): Engages in zooarchaeological research across numerous projects, particularly in environmental archaeology.
 
 #### Key Books/Articles
 
-- **Zooarchaeology** by Elizabeth J. Reitz and Elizabeth S. Wing: A fundamental introduction to the analysis of animal remains in archaeological research.
-- **The Analysis of Animal Bones from Archaeological Sites** by Richard G. Klein and Kathryn Cruz-Uribe: A classic text covering methods and interpretations in zooarchaeology.
-- **Taphonomy and Zooarchaeology** edited by Diane Gifford-Gonzalez: Discusses the processes that affect animal bones from death to their discovery in archaeological contexts.
+- **[Zooarchaeology](https://www-cambridge-org.uaccess.univie.ac.at/highereducation/books/zooarchaeology/3734B5C315F583543C8186B3D82F4BC3)** by Elizabeth J. Reitz and Elizabeth S. Wing (2008): A fundamental introduction to the analysis of animal remains in archaeological research.
+- **The Analysis of Animal Bones from Archaeological Sites** by Richard G. Klein and Kathryn Cruz-Uribe (1984): A classic text covering methods and interpretations in zooarchaeology.
+- **An introduction to Zooarchaeology** by Diane Gifford-Gonzalez (2018): Discusses the processes that affect animal bones from death to their discovery in archaeological contexts.
 
 #### Journals/Journal Series
 
@@ -687,8 +661,7 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Relevant Podcasts/Videos/Newsletters/Blogs
 
-- **[Podcast: Archaeology Podcast Network - Zooarchaeology Episodes](https://www.archaeologypodcastnetwork.com/)**: Features interviews and discussions on zooarchaeology topics.
-- **[Blog: TrowelBlazers](http://trowelblazers.com/)**: Highlights female zooarchaeologists and their contributions to the field.
+- **[Podcast: ArchaeoAnimals](https://www.archaeologypodcastnetwork.com/animals)**: A podcast focusing on differen zooarchaeological aspects hosted by Alex Fitzpatrick and Simona Falanga.
 
 #### Conferences
 
@@ -700,7 +673,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[International Council for Archaeozoology (ICAZ)](https://www.alexandriaarchive.org/icaz/)** (International): A global society dedicated to the study of animal remains in archaeology.
 - **[Society for American Archaeology - Zooarchaeology Interest Group](https://www.saa.org/)** (USA & International): A forum for zooarchaeologists to discuss their work and collaborate.
-- **[Facebook: Zooarchaeology Discussion Group](https://www.facebook.com/groups/zooarchaeology/)**: A community of zooarchaeologists sharing insights, discoveries, and resources.
 - **[Reddit: r/Zooarchaeology](https://www.reddit.com/r/zooarchaeology/)**: An online group discussing zooarchaeological research and techniques.
 
 </details>
