@@ -49,9 +49,9 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 #### Key Books/Articles
 
-- **Aerial Archaeology** by David R. Wilson: A comprehensive introduction to aerial photography and its role in archaeological surveys.
-- **Seeing Beneath the Soil** by Anthony Clark: Explores the integration of aerial photography with geophysical methods to detect archaeological sites.
-- **Remote Sensing in Archaeology** edited by James Wiseman and Farouk El-Baz: A collection of essays on the application of remote sensing technologies in archaeological exploration.
+- **Air Photo Interpretation for Archaeologists** by David R. Wilson (1982): A comprehensive introduction to aerial photography and its role in archaeological surveys.
+- **Seeing Beneath the Soil: Prospecting Methods in Archaeology** by Oliver Anthony Clark (1997): Explores the integration of aerial photography with geophysical methods to detect archaeological sites.
+- **Remote Sensing in Archaeology** edited by James Wiseman and Farouk El-Baz (2007): A collection of essays on the application of remote sensing technologies in archaeological exploration.
 
 #### Journals/Journal Series
 
@@ -63,6 +63,8 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[Aerial Archaeology Research Group - YouTube Channel](https://www.youtube.com/@aerialarchaeology)**: Features videos and lectures on aerial archaeology practices and discoveries.
 - **[Archaeology Podcast Network](https://www.archaeologypodcastnetwork.com/)**: Offers podcasts discussing various topics in archaeology, including episodes on aerial archaeology.
+- **[ArcheoTech Podcast - Integrating Aerial and Underwater Data for Archaeology - Ep 103](https://www.archaeologypodcastnetwork.com/archaeotech/tag/aerial)**: This episode discusses the Chapter 14 in “3D Recording and Interpretation for Maritime Archaeology” in the book “Integrating Aerial and Underwater Data for Archaeology: Digital Maritime Landscapes in 3D” (Springer 2019).
+- **[ArchaeoCafe Podcast - Episode 2-16 - Drone Archaeology](https://archaeocafe.kvasirpublishing.com/archaeocafe-podcast-ep-216-okeefe/)**: An interview with Katelyn O'Keefe about the use of drones for doing aerial surveys in archaeology and for looking at landscape change over time.
 - **[AARGnews](https://aargonline.com/wp/aarg-news/)**: The official newsletter of the Aerial Archaeology Research Group, providing updates on new discoveries, tools, and techniques.
 
 #### Conferences
@@ -74,7 +76,6 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[Aerial Archaeology Research Group (AARG)](https://aargonline.com/wp/)** (International): A global society promoting aerial archaeology and its methodologies.
 - **[Historic England - Airborne and Remote Sensing](https://historicengland.org.uk/research/methods/airborne-remote-sensing/)** (UK): Provides resources and forums for discussion and research into aerial archaeology and remote sensing.
-- **[Facebook: Aerial Archaeology Enthusiasts](https://www.facebook.com/groups/aerialarchaeology/)**: A community of aerial archaeology enthusiasts sharing images, discoveries, and knowledge.
 
 </details>
 
@@ -92,12 +93,15 @@ A comprehensive alphabetical list of archaeological fields, including descriptio
 
 - **[Mark Hoyle - Archaeological Illustration](https://markhoyle.com/)** (UK): Provides professional archaeological illustration services with over 20 years of experience in the field.
 - **[Das Kreativnetzwerk für Visualisierung - Archäologische Illustrationen](https://www.archaeologische-illustrationen.de/)** (Germany): Specializes in detailed reconstructions, 3D animations, explanatory videos, and infographics to convey archaeological concepts to a broad audience.
+- **[Oxford Archaeology – Illustration and Graphics](https://www.oxfordarchaeology.com/blog/illustration-and-graphics)** (UK): Provides comprehensive archaeological illustration services, including artifact drawings, site plans, and reconstructions, utilizing both traditional and digital techniques.
+- **[Archaëa – Illustration Studio](https://archaëa.com/)** (Italy): An illustration studio based in South Tyrol, focusing on archaeological illustrations across various domains.
+- **[Jona Schlegel – Archaeological Illustration and Communication](https://jonaschlegel.com/)** (Austria): Specializes in scientific communication, web design, and illustration, creating engaging content that makes science accessible and inclusive.
 
 #### Key Books/Articles
 
-- **Archaeological Illustration** by Lesley Adkins and Roy Adkins: A comprehensive guide covering the history, techniques, and applications of illustration in archaeology.
-- **Approaches to Archaeological Illustration: A Handbook** by Mélanie Steiner: Provides insights into various methods and challenges in archaeological illustration, serving as a valuable resource for students and professionals.
-- **Archaeological Illustration and Publication** by E. B. Banning: Discusses the role of illustrations in archaeological publications and the conventions used in artifact depiction.
+- **Archaeological Illustration (Cambridge Manuals in Archaeology)** by Lesley Adkins and Roy Adkins (1989): A comprehensive guide covering the history, techniques, and applications of illustration in archaeology.
+- **[Approaches to Archaeological Illustration: A Handbook](https://woolmerforest.org.uk/E-Library/A/Approaches%20to%20Archaeological%20Illustration%20%20Handbook.pdf)** by Mélanie Steiner (2005): Provides insights into various methods and challenges in archaeological illustration, serving as a valuable resource for students and professionals.
+- **[Archaeological Illustration and Publication](https://www.researchgate.net/publication/343248821_Archaeological_Illustration_and_Publication)** chapter **The Archaeologist's Laboratory** in by E. B. Banning (2020): Discusses the role of illustrations in archaeological publications and the conventions used in artifact depiction.
 
 #### Journals/Journal Series
 
